@@ -1,6 +1,6 @@
 # Semesterarbeit 1 
 
-## Cloudeinstieg der Schule Muster inkl. <br> Zertifizierung AZ-104, Microsoft Certified: Azure Administrator Associate
+# Cloudeinstieg der Schule Muster inkl. <br> Zertifizierung AZ-104, Microsoft Certified: Azure Administrator Associate
 
 
 ![Logo AZ104](Images/AZ104_Image.png)

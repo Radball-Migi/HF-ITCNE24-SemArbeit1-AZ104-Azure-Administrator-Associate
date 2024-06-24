@@ -1,0 +1,4 @@
+
+[Azure Pricing](https://azure.microsoft.com/en-us/pricing/calculator/?ef_id=_k_Cj0KCQjwsuSzBhCLARIsAIcdLm4bdkgB1BThyBvsnBWQZdAvnUAS7qdEqAB-fXQ7wgaoohE2hm-XoVMaAtxzEALw_wcB_k_&OCID=AIDcmmtg9dwtad_SEM__k_Cj0KCQjwsuSzBhCLARIsAIcdLm4bdkgB1BThyBvsnBWQZdAvnUAS7qdEqAB-fXQ7wgaoohE2hm-XoVMaAtxzEALw_wcB_k_&gad_source=1&gclid=Cj0KCQjwsuSzBhCLARIsAIcdLm4bdkgB1BThyBvsnBWQZdAvnUAS7qdEqAB-fXQ7wgaoohE2hm-XoVMaAtxzEALw_wcB)
+
+[Azure Pricing German](https://azure.microsoft.com/de-de/pricing/calculator/)
