@@ -12,7 +12,7 @@ Da die aktuelle Umgebung (gemäss logischem Schema) bereits auf Microsoft-Techno
 ist der Wunsch, dass alles auch mit Microsoft umgesetzt wird.
 
 
-![Image Logical Network](LogicNetworkInitialSituation.png)
+![Image Logical Network](../Images/LogicNetworkInitialSituation.png)
 
 An der Schule Muster sind es rund 250 Schülerinnen und Schüler (SuS), 30 Lehrpersonen (LP) und 
 rund 30 Mitarbeitende (MA: Schulverwaltung, Schulleitung, Hausdienst, etc.)
