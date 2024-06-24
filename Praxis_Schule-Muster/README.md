@@ -36,7 +36,7 @@ Die Zeitplanung in diesem Abschnitt ist eine ungefähre Kalkulation, welche für
 
 Für die Realisierung dieses Projekts, werden einige Personen benötigt, weshalb hier die Systemgrenzen aufgezeigt werden, was ab welcher Person/Firma abhängt. 
 
-- [SEUSAG](../Praxis_Schule-Muster/Planung/SEUSAG.md)
+- [SEUSAG](./Planung/SEUSAG.md)
 - 
 
 
