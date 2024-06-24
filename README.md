@@ -18,14 +18,14 @@
 
 
 
-## 2. Azure theorie
+## 2. Azure Theorie
 
-[Azure Theorie](./Azure_Theorie/)
+### [2.1 Azure Theorie](./Azure_Theorie/)
 
 
 ## 3. Praxis (Teilprojekt Schule Muster)
 
-[Schule Muster](./Praxis_Schule-Muster/)
+### [3.1 Schule Muster](./Praxis_Schule-Muster/)
 
 
 ## 4. Zwischenbesprechungen
@@ -39,6 +39,14 @@ Unter den nachfolgenden Links, sind die einzelnen "Protokolle" zur jeweiligen Be
 - [2. Zwischengespräch (14.06.2024 oder 24.06.2024)](Zwischenbesprechungen/Zwischenbesprechung2.md)
 - [3. Zwischengespräch (28.06.2024 oder 01.07.2024)](Zwischenbesprechungen/Zwischenbesprechung3.md)
 
+## 5. Zertifizierung
+
+### [5.1 Zertifizierung](Zertifizierung/README.md)
+
+
+## 6. Schlusswort
+
+### [6.1 Schlusswort](Semesterarbeit_Abschluss.md)
 
 <br>
 <br>

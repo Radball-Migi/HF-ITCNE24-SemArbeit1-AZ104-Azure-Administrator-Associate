@@ -21,7 +21,7 @@
 
 ## 1. Informationen
 
-- [1.1 Ausgangslage](./Informationen/Ausgangslage.md)
+- [1.1 Ausgangslage](Ausgangslage.md)
 ## 2. Planung
 
 ### 2.1 Zeitplanung
@@ -36,7 +36,7 @@ Die Zeitplanung in diesem Abschnitt ist eine ungefähre Kalkulation, welche für
 
 Für die Realisierung dieses Projekts, werden einige Personen benötigt, weshalb hier die Systemgrenzen aufgezeigt werden, was ab welcher Person/Firma abhängt. 
 
-- [SEUSAG](./Planung/SEUSAG.md)
+- [SEUSAG](SEUSAG.md)
 - 
 
 

@@ -15,7 +15,8 @@ Um mal kurz etwas anderes zu machen, als nur Theorie zu lernen und zu dokumentie
 ## Was für Massnahmen werden, wenn nötig, ergriffen?
 
 Um nun den Fokus auf die Zertifizierung zu fixieren, werde ich den Theorie-Teil nun eher weglassen und mich auf vollständig auf die Prüfung vorbereiten. 
-Aus diesem Grund, werde ich die Theorie zwar drin lassen, jedoch nicht verlinken. 
+Aus diesem Grund, ist die Theorie zwar verlink, jedoch wird ein Hinweis aufgeschaltet und auf diesen Beitrag verwiesen. 
+
 
 Aufgrund der vorhin erwähnten Umstrukturierung werde ich gleich die gelegenheit Nutzen, um auf GitHub zu wechseln, da ich mich bei einem Freund inspirieren lassen habe und mir GitHub besser gefällt von den Möglichkeiten. Zusätzlich habe ich bereits Repos auf GitHub für PowerAutomate Themen und einzelnen PowerShell Scripts. 
 
