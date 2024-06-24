@@ -21,7 +21,7 @@
 
 ## 1. Informationen
 
-- [1.1 Ausgangslage](../Informationen/Ausgangslage.md)
+- [1.1 Ausgangslage](./Informationen/Ausgangslage.md)
 ## 2. Planung
 
 ### 2.1 Zeitplanung
