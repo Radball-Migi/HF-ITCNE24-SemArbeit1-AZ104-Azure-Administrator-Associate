@@ -27,4 +27,4 @@ Anhand des nachfolgenden Plans, sehen Sie dann den neuen soll-Zustand.
 ![Ist-Zustand logischer Plan](./Images/Logisches_Netzwerk_soll-Zustand_Semesterarbeit_1.png)
 *Logisches Layout der Schule Muster (Soll-Zustand)* 
 
-Was genau geändert wurde, werde ich unter dem Abschnitt [Entscheidung](../03_) genauer drauf eingehen. 
+Was genau geändert wurde, werde ich unter dem Abschnitt [Entscheidung](../03_Entscheidung/README.md) genauer drauf eingehen. 
