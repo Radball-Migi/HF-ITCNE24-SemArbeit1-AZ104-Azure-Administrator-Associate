@@ -60,7 +60,7 @@ Das Namenskonzept würde wie folgt aufgebaut werden:
 
 Neue Benutzer haben noch keinen userPrincipalName. Dieser wird durch den Sync generiert. Die Regeln, um Spezialfälle abzufangen, sind standardmässig so definiert:
 
-- Wenn derselbe Vor- und Nachname mehrmals vorkommt, wird nach dem Namen automatisch eine Zahl in aufsteigender Folge gebildet (also z.B. vorname.name2@schule-inwil.ch).
+- Wenn derselbe Vor- und Nachname mehrmals vorkommt, wird nach dem Namen automatisch eine Zahl in aufsteigender Folge gebildet (also z.B. vorname.name2@schulemuster.ch).
 
 - Bei langen Vor- oder Nachnamen bzw. bei Verwendung von Doppelnamen wird folgende Regel in der auf-geführten Reihenfolge zur Bildung des UPN angewandt:
 
