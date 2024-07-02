@@ -64,7 +64,7 @@ Neue Benutzer haben noch keinen userPrincipalName. Dieser wird durch den Sync ge
 
 - Bei langen Vor- oder Nachnamen bzw. bei Verwendung von Doppelnamen wird folgende Regel in der auf-geführten Reihenfolge zur Bildung des UPN angewandt:
 
-	- Alle Zeichen werden klein geschrieben (Dario > dario)
+	- Alle Zeichen werden klein geschrieben (Max > max)
 
 	- Sonderzeichen werden entfernt (peter? > peter)
 
@@ -74,15 +74,9 @@ Neue Benutzer haben noch keinen userPrincipalName. Dieser wird durch den Sync ge
 
 	- Doppelspaces werden mehrfach durch Space ersetzt (hans   peter > hans peter)
 
-	- Wörter werden beidseits getrimmt ( marcel  > marcel)
+	- Wörter werden beidseits getrimmt ( max  > max)
 
 	- Abstände nach führenden Präpositionen in Nachnamen werden entfernt (da costa -> dacosta)
-
-	- Wenn ein Vor- oder Nachname mehr als 10 Buchstaben enthält, so wird beim ersten Space nach dem 4. Zeichen gekürzt (silvia petra      da costa fernandez -> silvia.dacosta)
-
-	- Wenn ein Nachname mehr als 10 Buchstaben enthält, so wird beim ersten Bindestrich nach dem 4. Zeichen gekürzt (meier-von graffenried > meier, aber meier-petz > meier-petz)
-
-	- Verbleibende Spaces werden durch Trennstriche ersetzt (mila lora -> mila-lora)
 
 - Es dürfen nie 2 identische UPN vorkommen, und die Logins müssen eine gültige E-Mail-Adresse repräsentieren (Regular-Expression Prüfung).
 
