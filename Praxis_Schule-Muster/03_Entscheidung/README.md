@@ -1,5 +1,10 @@
 # Entscheidung
 
-Anhand des Cloudeinstiegs der Schule Muster, müssen diverse Entscheidungen getroffen werden, da die aktuelle Umgebung überarbeitet werden muss. 
+Anhand des Cloudeinstiegs der Schule Muster, müssen diverse Entscheidungen getroffen werden, da die aktuelle Umgebung überarbeitet werden muss.  
 
 In den Nachfolgenden Punkten werde ich auf alle Entscheidungen dieses Projekts eingehen. 
+
+- [Namenskonzept](./Nameconcept.md) 
+- [Identity Management](./IdentityManagement.md) 
+- [Vergleich Ist-Soll-Zustand](./compare_ist_soll-zustand.md)
+- 

@@ -36,17 +36,17 @@ Die Zeitplanung in diesem Abschnitt ist eine ungefähre Kalkulation, welche für
 
 Für die Realisierung dieses Projekts, werden einige Personen benötigt, weshalb hier die Systemgrenzen aufgezeigt werden, was ab welcher Person/Firma abhängt. 
 
-- [SEUSAG](SEUSAG.md)
+- [SEUSAG](./02_Planung/SEUSAG.md) 
 - 
 
 
-## 3. Entscheidung (Evaluationen)
+## [3. Entscheidung (Evaluationen)](./03_Entscheidung/README.md)  
 
 ### 3.1 Namenskonzept
 
 Damit in einer Umgebung alles reibungslos funktionieren kann, braucht es auch ein strukturiertes Namenskonzept.
 
-- [Namenskonzept]()
+- [Namenskonzept](./03_Entscheidung/Nameconcept.md) 
 
 ### 3.2 Evaluation für Desktopablösung
 
@@ -57,7 +57,9 @@ Für die Evaluation stehen 3 Virtualisierungsberflächen, welche alle als PaaS a
 - VMWare
 - Azure Virtual Desktops
 
-### 3.2 Dokumentierung
+[Evaluierung der Desktopablösung](./03_Entscheidung/compare_ist_soll-zustand.md)
+
+### 3.4 Dokumentierung
 
 Die Dokumentierung dieses Projekts wurde zu beginn auf Gitlab festgehalten. 
 Aufgrund eines Missverständnisses, zwischen Experte und mir, habe ich mich entschieden, das Ganze nochmals um zu strukturieren und neu auf Github zu dokumentieren. 
