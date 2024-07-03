@@ -42,7 +42,13 @@ Für die Realisierung dieses Projekts, werden einige Personen benötigt, weshalb
 
 ## 3. Entscheidung (Evaluationen)
 
-### 3.1 Evaluation für Desktopablösung
+### 3.1 Namenskonzept
+
+Damit in einer Umgebung alles reibungslos funktionieren kann, braucht es auch ein strukturiertes Namenskonzept.
+
+- [Namenskonzept]()
+
+### 3.2 Evaluation für Desktopablösung
 
 Unter der Entscheidung, respektive Evaluation, wird eine geeignete Lösung für die Ablösung der Desktop Clients evaluiert und in einen Vorschlag empfohlen.
 
