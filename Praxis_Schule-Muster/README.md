@@ -57,7 +57,12 @@ Für die Evaluation stehen 3 Virtualisierungsberflächen, welche alle als PaaS a
 - VMWare
 - Azure Virtual Desktops
 
-[Evaluierung der Desktopablösung](./03_Entscheidung/compare_ist_soll-zustand.md)
+[Evaluierung der Desktopablösung](./03_Entscheidung/desktopreplacement.md)  
+
+
+### 3.3 Vergleich Ist- Soll-Zustand
+
+[Vergleich Ist- Soll-Zustand](./03_Entscheidung/compare_ist_soll-zustand.md)
 
 ### 3.4 Dokumentierung
 
