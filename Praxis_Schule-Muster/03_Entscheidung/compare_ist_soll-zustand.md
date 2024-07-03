@@ -69,6 +69,8 @@ Anhand der Nummerierung auf dem Bild "Soll-Zustand", werde ich nachfolgend erlä
 5. **On-Premise Umgebung** 
    Die On-Premise Umgebung wird weiterhin betrieben.
    Dies jedoch nur noch mit einem DHCP und AD Server, dies mehrheitlich aufgrund des WLANS, da man abklären muss, ob dies weiterhin von der Schule betrieben wird oder dies vom ISP gemacht werden könnte. 
+   Neu wird ein Microsoft 365 Backup eingerichtet, welches Alle Daten auf dem SharePoint sichert, inkl. der Teams. 
+   
    
    
    
