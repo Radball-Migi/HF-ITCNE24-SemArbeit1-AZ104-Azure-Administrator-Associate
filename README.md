@@ -35,9 +35,9 @@ Durch die Zwischengespräche kann ich bereits eine erste Reflektion erstellen un
 
 Unter den nachfolgenden Links, sind die einzelnen "Protokolle" zur jeweiligen Besprechung:
 
-- [1. Zwischengespräch (hat nicht Stattgefunden)](Zwischenbesprechungen/Zwischenbesprechung1.md)
-- [2. Zwischengespräch (14.06.2024 oder 24.06.2024)](Zwischenbesprechungen/Zwischenbesprechung2.md)
-- [3. Zwischengespräch (28.06.2024 oder 01.07.2024)](Zwischenbesprechungen/Zwischenbesprechung3.md)
+- [1. Zwischengespräch (hat nicht Stattgefunden)](Zwischenbesprechung1.md)
+- [2. Zwischengespräch (14.06.2024 oder 24.06.2024)](Zwischenbesprechung2.md)
+- [3. Zwischengespräch (28.06.2024 oder 01.07.2024)](Zwischenbesprechung3.md)
 
 ## 5. Zertifizierung
 

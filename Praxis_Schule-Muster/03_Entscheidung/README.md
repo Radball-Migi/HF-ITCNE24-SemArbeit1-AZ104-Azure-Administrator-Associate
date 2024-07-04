@@ -7,4 +7,5 @@ In den Nachfolgenden Punkten werde ich auf alle Entscheidungen dieses Projekts e
 - [Namenskonzept](./Nameconcept.md) 
 - [Identity Management](./IdentityManagement.md) 
 - [Vergleich Ist-Soll-Zustand](./compare_ist_soll-zustand.md)
+- [SEUSAG](SEUSAG.md) 
 - 

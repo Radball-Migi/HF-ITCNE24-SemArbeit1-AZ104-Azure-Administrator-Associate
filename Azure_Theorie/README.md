@@ -2,7 +2,7 @@
 
 > [!WARNING]  
 > Aufgrund des Rückstandes des Projekts, wurde die Priorisierung angepasst und somit wird die Dokumentierung der Theorie zu einem Späteren Zeitpunkt fertiggestellt. 
-> Weitere Infos können Sie unter [Entscheidung Priorisierung](../Zwischenbesprechungen/Zwischenbesprechung2.md) einsehen.
+> Weitere Infos können Sie unter [Entscheidung Priorisierung](Zwischenbesprechung2.md) einsehen.
 
 
 

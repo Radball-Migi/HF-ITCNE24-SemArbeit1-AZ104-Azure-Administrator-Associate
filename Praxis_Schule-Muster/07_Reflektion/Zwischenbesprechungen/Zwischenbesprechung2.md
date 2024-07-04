@@ -18,7 +18,7 @@ Um nun den Fokus auf die Zertifizierung zu fixieren, werde ich den Theorie-Teil 
 Aus diesem Grund, ist die Theorie zwar verlink, jedoch wird ein Hinweis aufgeschaltet und auf diesen Beitrag verwiesen. 
 
 
-Aufgrund der vorhin erwähnten Umstrukturierung werde ich gleich die gelegenheit Nutzen, um auf GitHub zu wechseln, da ich mich bei einem Freund inspirieren lassen habe und mir GitHub besser gefällt von den Möglichkeiten. Zusätzlich habe ich bereits Repos auf GitHub für PowerAutomate Themen und einzelnen PowerShell Scripts. 
+Aufgrund der vorhin erwähnten Umstrukturierung werde ich gleich die Gelegenheit Nutzen, um auf GitHub zu wechseln, da ich mich bei einem Freund inspirieren lassen habe und mir GitHub besser gefällt von den Möglichkeiten. Zusätzlich habe ich bereits Repos auf GitHub für PowerAutomate Themen und einzelnen PowerShell Scripts. 
 
 Nebst der Vorbereitung für die Zertifizierung werde ich immer wieder Blockweise am Teilprojekt weiterarbeiten. 
 
@@ -38,5 +38,5 @@ Da ich aktuell von 6 Themenbereichen erst 1.5 Abgeschlossen habe, muss ich gas g
 <br>
 <br>
 
-> [**➯ Weiter zur 3. Zwischenbesprechung**](./Zwischenbesprechung3.md) <br>
+> [**➯ Weiter zur 3. Zwischenbesprechung**](Zwischenbesprechung3.md) <br>
 > [⌂ **Zurück zur Hauptseite**](https://github.com/Radball-Migi/HF-ITCNE24-SemArbeit1-AZ104-Azure-Administrator-Associate)

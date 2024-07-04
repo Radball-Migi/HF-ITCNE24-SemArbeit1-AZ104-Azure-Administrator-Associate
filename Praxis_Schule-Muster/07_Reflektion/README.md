@@ -12,11 +12,11 @@ Zusätzlich bewegte mich auch das Missverständnis zwischen Experten und mir, wa
 
 Da ich bereits in der Hälfte der gegebenen Zeit massiv hinter her hinkte, weil ich zu viel Zeit ins Theorie dokumentieren investierte, geriet ich einerseits Mental in Stress, da ich ja noch viel lernen musste für die Zertifizierung und auch noch das Teilprojekt vor mir hatte. 
 
-### 7.1 Risikobewertung Auswertung
+## Risikobewertung Auswertung
 
 Risiko Risikostufe (Skala 1-10) Massnahme / Kommentar «Überladen» der Dokumentation, aufgrund Informationsbeschaffung 8 Wo möglich möglichst kurzhalten und allenfalls mit mehr Grafiken arbeiten Entra ID Konfiguration 10 Möglichkeit finden, den Entra ID Part Demonstrieren zu können, da in Student-Subscription das Entra ID gesperrt ist. Zertifizierungsprüfung 9 Fraglich, ob überhaupt möglich in solch kurzer Zeit noch Prüfungstermine zu finden, deshalb wird nicht ausgeschlossen, dass die Prüfung zu einem späteren Zeitpunkt nach der Semesterarbeit gemacht werden soll.
 
 
 Anhand der Zwischenbesprechungen, konnte ich so die Hilfe des Experten mit einbeziehen und mir eine gewisse Sicherheit einholen, ob ich auf dem richtigen Weg bin. 
 
-[Zwischengespräche](../Zwischenbesprechungen/Zwischenbesprechung1.md) 
+[Zwischengespräche](./Zwischenbesprechungen/Zwischenbesprechung1.md) 
