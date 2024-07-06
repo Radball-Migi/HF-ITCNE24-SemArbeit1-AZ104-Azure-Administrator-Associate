@@ -45,10 +45,10 @@ Täglich gibt es Logs und ein ChangeReport, in dem man getätigte Änderungen ei
 
 Ein genaues Konzept und vorgehen kann nach einer Analyse und Vorbesprechung ausgearbeitet werden. 
 
-### Namenskonzeption
+#### Namenskonzeption
 
 Das Namenskonzept würde wie folgt aufgebaut werden: 
-#### UserPrincipalName (UPN)
+##### UserPrincipalName (UPN)
 
 | Funktion      | UPN                              |     |
 | ------------- | -------------------------------- | --- |
@@ -56,7 +56,7 @@ Das Namenskonzept würde wie folgt aufgebaut werden:
 | Mitarbeitende | vorname.nachname@schulemuster.ch |     |
 | Lernende      | vorname.nachname@schulemuster.ch |     |
 
-##### Regeln für die Erstellung des UPNs
+###### Regeln für die Erstellung des UPNs
 
 Neue Benutzer haben noch keinen userPrincipalName. Dieser wird durch den Sync generiert. Die Regeln, um Spezialfälle abzufangen, sind standardmässig so definiert:
 
