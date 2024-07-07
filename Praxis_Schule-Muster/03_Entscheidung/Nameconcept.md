@@ -76,7 +76,7 @@ Folgende Sicherheitsgruppen werden erstellt:
 | Gruppenbezeichnung | Gruppe für Bereich       | Zweck                                                                                                                           |
 | ------------------ | ------------------------ | ------------------------------------------------------------------------------------------------------------------------------- |
 | SPO_*              | SharePoint-Gruppe        | Gruppe für Zugriff aus SharePoint. Beginnt mit `SPO_` und anschliessend folgt ein Logischer Gruppenname, beispielsweise.        |
-| PWREset            | Securitygroup            | Gruppe für PAsswortrichtlinie, damit Benutzer ihr eigenes Passwort zurücksetzen können.                                         |
+| PWREset            | Securitygroup            | Gruppe für Passwortrichtlinie, damit Benutzer ihr eigenes Passwort zurücksetzen können.                                         |
 | MFA_Users          | Securitygroup            | Gruppe für Multifaktorauthentifizierung der Benutzer                                                                            |
 | MFA_Admins         | Securitygroup            | Gruppe für Multifaktorauthentifizierung der Admins                                                                              |
 | PWReset_Admins     | Securitygroup            | Gruppe für Benutzer, welche Passwörter anderer Benutzer ändern dürfen. RBAC-Zuweisung einer Rolle                               |

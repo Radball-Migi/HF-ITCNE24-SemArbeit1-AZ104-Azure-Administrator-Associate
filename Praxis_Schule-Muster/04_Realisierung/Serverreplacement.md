@@ -47,152 +47,66 @@ Beim erstellen der Ressource, beachten wir zusätzlich das [Namenskonzept](../03
 Wie wir hier sehen können haben wir in der Ressourcengruppe einen Loadbalancer, zwei VMs, deren SSDs, etc. 
 
 Die Konfiguration des Loadbalancers sieht folgendermassen aus:
+![Config Loadbalancer](./Images/Loadbalancer/config_loadbalancer.png) 
+*Config Loadbalancer* 
 
-```JSON
-{
-    "name": "az-lb-sm-1",
-    "id": "/subscriptions/2b300788-6f75-4d7e-ad1a-cf02b57283ea/resourceGroups/az-rg-sm-srv-homepage/providers/Microsoft.Network/loadBalancers/az-lb-sm-1",
-    "etag": "W/\"71cd2464-9538-48f0-93af-36f5676be51b\"",
-    "type": "Microsoft.Network/loadBalancers",
-    "location": "westus",
-    "properties": {
-        "provisioningState": "Succeeded",
-        "resourceGuid": "b81cf145-0406-464c-b02f-d560b8da6fe1",
-        "frontendIPConfigurations": [
-            {
-                "name": "SMFrontEnd",
-                "id": "/subscriptions/2b300788-6f75-4d7e-ad1a-cf02b57283ea/resourceGroups/az-rg-sm-srv-homepage/providers/Microsoft.Network/loadBalancers/az-lb-sm-1/frontendIPConfigurations/SMFrontEnd",
-                "etag": "W/\"71cd2464-9538-48f0-93af-36f5676be51b\"",
-                "type": "Microsoft.Network/loadBalancers/frontendIPConfigurations",
-                "properties": {
-                    "provisioningState": "Succeeded",
-                    "privateIPAllocationMethod": "Dynamic",
-                    "publicIPAddress": {
-                        "id": "/subscriptions/2b300788-6f75-4d7e-ad1a-cf02b57283ea/resourceGroups/az-rg-sm-srv-homepage/providers/Microsoft.Network/publicIPAddresses/SMPublicIP"
-                    },
-                    "loadBalancingRules": [
-                        {
-                            "id": "/subscriptions/2b300788-6f75-4d7e-ad1a-cf02b57283ea/resourceGroups/az-rg-sm-srv-homepage/providers/Microsoft.Network/loadBalancers/az-lb-sm-1/loadBalancingRules/SMLoadBalancerRule"
-                        }
-                    ]
-                }
-            }
-        ],
-        "backendAddressPools": [
-            {
-                "name": "SMBackEndPool",
-                "id": "/subscriptions/2b300788-6f75-4d7e-ad1a-cf02b57283ea/resourceGroups/az-rg-sm-srv-homepage/providers/Microsoft.Network/loadBalancers/az-lb-sm-1/backendAddressPools/SMBackEndPool",
-                "etag": "W/\"71cd2464-9538-48f0-93af-36f5676be51b\"",
-                "properties": {
-                    "provisioningState": "Succeeded",
-                    "loadBalancerBackendAddresses": [
-                        {
-                            "name": "az-rg-sm-srv-homepage_webNic2ipconfig1",
-                            "id": "/subscriptions/2b300788-6f75-4d7e-ad1a-cf02b57283ea/resourceGroups/az-rg-sm-srv-homepage/providers/Microsoft.Network/loadBalancers/az-lb-sm-1/backendAddressPools/SMBackEndPool/loadBalancerBackendAddresses/az-rg-sm-srv-homepage_webNic2ipconfig1",
-                            "etag": "W/\"71cd2464-9538-48f0-93af-36f5676be51b\"",
-                            "properties": {
-                                "provisioningState": "Succeeded",
-                                "networkInterfaceIPConfiguration": {
-                                    "id": "/subscriptions/2b300788-6f75-4d7e-ad1a-cf02b57283ea/resourceGroups/az-rg-sm-srv-homepage/providers/Microsoft.Network/networkInterfaces/webNic2/ipConfigurations/ipconfig1"
-                                }
-                            },
-                            "type": "Microsoft.Network/loadBalancers/backendAddressPools/loadBalancerBackendAddresses"
-                        },
-                        {
-                            "name": "az-rg-sm-srv-homepage_webNic1ipconfig1",
-                            "id": "/subscriptions/2b300788-6f75-4d7e-ad1a-cf02b57283ea/resourceGroups/az-rg-sm-srv-homepage/providers/Microsoft.Network/loadBalancers/az-lb-sm-1/backendAddressPools/SMBackEndPool/loadBalancerBackendAddresses/az-rg-sm-srv-homepage_webNic1ipconfig1",
-                            "etag": "W/\"71cd2464-9538-48f0-93af-36f5676be51b\"",
-                            "properties": {
-                                "provisioningState": "Succeeded",
-                                "networkInterfaceIPConfiguration": {
-                                    "id": "/subscriptions/2b300788-6f75-4d7e-ad1a-cf02b57283ea/resourceGroups/az-rg-sm-srv-homepage/providers/Microsoft.Network/networkInterfaces/webNic1/ipConfigurations/ipconfig1"
-                                }
-                            },
-                            "type": "Microsoft.Network/loadBalancers/backendAddressPools/loadBalancerBackendAddresses"
-                        }
-                    ],
-                    "backendIPConfigurations": [
-                        {
-                            "id": "/subscriptions/2b300788-6f75-4d7e-ad1a-cf02b57283ea/resourceGroups/az-rg-sm-srv-homepage/providers/Microsoft.Network/networkInterfaces/webNic2/ipConfigurations/ipconfig1"
-                        },
-                        {
-                            "id": "/subscriptions/2b300788-6f75-4d7e-ad1a-cf02b57283ea/resourceGroups/az-rg-sm-srv-homepage/providers/Microsoft.Network/networkInterfaces/webNic1/ipConfigurations/ipconfig1"
-                        }
-                    ],
-                    "loadBalancingRules": [
-                        {
-                            "id": "/subscriptions/2b300788-6f75-4d7e-ad1a-cf02b57283ea/resourceGroups/az-rg-sm-srv-homepage/providers/Microsoft.Network/loadBalancers/az-lb-sm-1/loadBalancingRules/SMLoadBalancerRule"
-                        }
-                    ]
-                },
-                "type": "Microsoft.Network/loadBalancers/backendAddressPools"
-            }
-        ],
-        "loadBalancingRules": [
-            {
-                "name": "SMLoadBalancerRule",
-                "id": "/subscriptions/2b300788-6f75-4d7e-ad1a-cf02b57283ea/resourceGroups/az-rg-sm-srv-homepage/providers/Microsoft.Network/loadBalancers/az-lb-sm-1/loadBalancingRules/SMLoadBalancerRule",
-                "etag": "W/\"71cd2464-9538-48f0-93af-36f5676be51b\"",
-                "type": "Microsoft.Network/loadBalancers/loadBalancingRules",
-                "properties": {
-                    "provisioningState": "Succeeded",
-                    "frontendIPConfiguration": {
-                        "id": "/subscriptions/2b300788-6f75-4d7e-ad1a-cf02b57283ea/resourceGroups/az-rg-sm-srv-homepage/providers/Microsoft.Network/loadBalancers/az-lb-sm-1/frontendIPConfigurations/SMFrontEnd"
-                    },
-                    "frontendPort": 80,
-                    "backendPort": 80,
-                    "enableFloatingIP": false,
-                    "idleTimeoutInMinutes": 4,
-                    "protocol": "Tcp",
-                    "enableDestinationServiceEndpoint": false,
-                    "enableTcpReset": false,
-                    "allowBackendPortConflict": false,
-                    "loadDistribution": "Default",
-                    "disableOutboundSnat": false,
-                    "backendAddressPool": {
-                        "id": "/subscriptions/2b300788-6f75-4d7e-ad1a-cf02b57283ea/resourceGroups/az-rg-sm-srv-homepage/providers/Microsoft.Network/loadBalancers/az-lb-sm-1/backendAddressPools/SMBackEndPool"
-                    },
-                    "backendAddressPools": [
-                        {
-                            "id": "/subscriptions/2b300788-6f75-4d7e-ad1a-cf02b57283ea/resourceGroups/az-rg-sm-srv-homepage/providers/Microsoft.Network/loadBalancers/az-lb-sm-1/backendAddressPools/SMBackEndPool"
-                        }
-                    ],
-                    "probe": {
-                        "id": "/subscriptions/2b300788-6f75-4d7e-ad1a-cf02b57283ea/resourceGroups/az-rg-sm-srv-homepage/providers/Microsoft.Network/loadBalancers/az-lb-sm-1/probes/SMHealthProbe"
-                    }
-                }
-            }
-        ],
-        "probes": [
-            {
-                "name": "SMHealthProbe",
-                "id": "/subscriptions/2b300788-6f75-4d7e-ad1a-cf02b57283ea/resourceGroups/az-rg-sm-srv-homepage/providers/Microsoft.Network/loadBalancers/az-lb-sm-1/probes/SMHealthProbe",
-                "etag": "W/\"71cd2464-9538-48f0-93af-36f5676be51b\"",
-                "properties": {
-                    "provisioningState": "Succeeded",
-                    "protocol": "Http",
-                    "port": 80,
-                    "requestPath": "/",
-                    "intervalInSeconds": 5,
-                    "numberOfProbes": 2,
-                    "loadBalancingRules": [
-                        {
-                            "id": "/subscriptions/2b300788-6f75-4d7e-ad1a-cf02b57283ea/resourceGroups/az-rg-sm-srv-homepage/providers/Microsoft.Network/loadBalancers/az-lb-sm-1/loadBalancingRules/SMLoadBalancerRule"
-                        }
-                    ]
-                },
-                "type": "Microsoft.Network/loadBalancers/probes"
-            }
-        ],
-        "inboundNatRules": [],
-        "outboundRules": [],
-        "inboundNatPools": []
-    },
-    "sku": {
-        "name": "Standard",
-        "tier": "Regional"
-    }
-}
-```
+Ansonsten kann auch das JSON über diesen Link angeschaut werden: [JSON Config Loadbalancer](./Scripts_for_Demos/config/loadbalancerconfig.md) 
+
+Die VMs werden über ein Cloud-Init-File erstellt, welches einen NGNX-Webserver installiert und auch gleich eine Demo Homepage, auf der aktuell ersichtlich ist, auf welchem Server wir uns befinden.
+
+![Website Demo](./Images/Loadbalancer/test_lb_for_Websites.png)
+*Demowebsite*
+Wie wir in dieser Abbildung sehen können, haben wir über zwei Browserprofile eine Anfrage auf die selbe IP-Adresse Durch den Loadbalancer werden die Anfragen dann auf die verschiedenen VMs aufgeteilt. 
+
+Diese Demo zeigt uns, wie eine Aufgleisungs eines Loadbalancer bei der Schule Muster nützen kann. 
+Die IP, welche aktuell verwendet wird für den Aufruf, würde dann mittels eines DNS zu einer URL umgewandelt werden, Bsp.: Schule-Muster.ch 
+
+
+## Office Applikationen (E-Mail, Daten, etc.)
+
+Um diverse Daten von den File-, E-Mailservern, etc. zu Migrieren, haben wir diverse Spezialisten bei uns im Team, welche diese Arbeiten fast Täglich machen. 
+Das Wichtigste an einer solchen Migration ist die Planung, welche mit den Spezialisten stattfindet. 
+
+### E-Mails
+Um den E-Mail-Server abzulösen, richten wir keine Hybridstelle ein, sondern migrieren dies gleich ins Exchange Online.
+
+### Daten
+
+Auf den Fileservern gibt es bestimmt viele Daten, wie Benutzerlaufwerke (Homes), Gruppenlaufwerke, welche Beispielsweise an Fachschaften angehören und sonstige Daten. 
+
+Benutzer Laufwerke wie Homes, werden bei uns standartmässig in OneDrive migriert . 
+Die OneDrives sind nachher nur noch für den Benutzer zugänglich und er kann dann auch die Dateien an andere Freigeben. 
+
+Bei Gruppenlaufwerken, ist es sinnvoll dies über ein Team zu steuern, denn über ein Team, kann man sich auch gleich austauschen, falls mal was geändert wurde und gleich alle erfahren es. 
+In einem solchen Team kann man auch wiederum diverse Apps von Microsoft mit verwenden, Notizbücher mit OneDrive erstellen, wo man dann auch miteinander arbeiten kann. 
+
+Für alle anderen Dateien, welche für Alle allgemein zugänglich sein sollen, kann man entweder dies im SharePoint auf einer SharePoint Site speichern. 
+Es gibt zwar auch die Möglichkeit dies über einen Azure Storage Blob zu speichern aber da SharePoint auch gleich in er Education-Lizenz integriert ist, macht es durch aus sinn, dies im SharePoint zu speichern. 
+
+![SharePoint Demosite](./Images/M365-Daten/SharePoint_Demosite.png)
+*SharePoint Demosite*
+
+## Backup
+
+### Azure Ressourcen Backup
+
+Beim Backup, geht es mehrheitlich darum, die wichtigen Daten zu sichern. 
+In dieser ganzen Umgebung gibt es aus meiner Sicht nur die SQL-Datenbank, welche speziell gesichert werden müssen. Die VMs erhalten die Website via Cloud-Init-Files und sind somit innerhalb von ca. 4-5 min wieder aktiv, weshalb ich hier den Drang für ein Backup nicht sehe, wäre aber machbar. 
+
+#### Wie würden wir die Daten Sichern?
+
+Mit Azrue Backup Service können wir gleich speziell die SQL Datenbank sichern. folgende vorteile bietet uns hier Azure:
+1. Workloadabhängige Sicherungen, die alle Sicherungstypen unterstützen: vollständige, differenzielle und Protokollsicherungen
+2. RPO (Recovery Point Objective) von 15 Minuten mit häufigen Protokollsicherungen
+3. Zeitpunktwiederherstellung von bis zu einer Sekunde
+4. Sicherung und Wiederherstellung einzelner Datenbankebenen
+
+### M365 Backup
+
+Für die Daten, welche auf M365 (SharePoint, Teams, E-Mail) gespeichert sind, haben wir bei uns das Active Backup für M365. Beim Kunden würde ein NAS (on-premise) eingerichtet werden, welches dann alle Daten von M365 bei sich sichert. Über die Sicherung ist es dann möglich, E-Mails oder SharePoint-Daten wiederherzustellen. 
+
+Dies könnte dann auch ergänzt werden mit einem Tapeschreiber, um dies auch auf Tapes zu sichern.
+
+
 
 
