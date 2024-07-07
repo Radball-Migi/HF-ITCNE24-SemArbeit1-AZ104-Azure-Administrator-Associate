@@ -1,3 +1,4 @@
 *.gns3project
 *.obsidian
 *.drawio*
+.Tocken.txt
