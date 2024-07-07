@@ -15,10 +15,10 @@ First, we need a public IP address for the load balancer.
     PowerShellCopy
     
     ```
-    $Location = $(Get-AzureRmResourceGroup -ResourceGroupName learn-4672e995-20e3-4ff1-9756-35b8febd8f9f).Location
+    $Location = $(Get-AzureRmResourceGroup -ResourceGroupName az-rg-srv-homepage-3).Location
     
     $publicIP = New-AzPublicIpAddress `
-      -ResourceGroupName learn-4672e995-20e3-4ff1-9756-35b8febd8f9f `
+      -ResourceGroupName az-rg-srv-homepage-3 `
       -Location $Location `
       -AllocationMethod "Static" `
       -Name "myPublicIP"
@@ -82,7 +82,7 @@ When you use PowerShell to configure a load balancer, you must create the back-e
     
     ```
     $lb = New-AzLoadBalancer `
-      -ResourceGroupName learn-4672e995-20e3-4ff1-9756-35b8febd8f9f `
+      -ResourceGroupName az-rg-srv-homepage-3 `
       -Name 'MyLoadBalancer' `
       -Location $Location `
       -FrontendIpConfiguration $frontendIP `
@@ -96,8 +96,8 @@ When you use PowerShell to configure a load balancer, you must create the back-e
     PowerShellCopy
     
     ```
-    $nic1 = Get-AzNetworkInterface -ResourceGroupName learn-4672e995-20e3-4ff1-9756-35b8febd8f9f -Name "webNic1"
-    $nic2 = Get-AzNetworkInterface -ResourceGroupName learn-4672e995-20e3-4ff1-9756-35b8febd8f9f -Name "webNic2"
+    $nic1 = Get-AzNetworkInterface -ResourceGroupName az-rg-srv-homepage-3 -Name "webNic1"
+    $nic2 = Get-AzNetworkInterface -ResourceGroupName az-rg-srv-homepage-3 -Name "webNic2"
     
     $nic1.IpConfigurations[0].LoadBalancerBackendAddressPools = $backendPool
     $nic2.IpConfigurations[0].LoadBalancerBackendAddressPools = $backendPool
@@ -112,7 +112,7 @@ When you use PowerShell to configure a load balancer, you must create the back-e
     
     ```
     Write-Host http://$($(Get-AzPublicIPAddress `
-      -ResourceGroupName learn-4672e995-20e3-4ff1-9756-35b8febd8f9f `
+      -ResourceGroupName az-rg-srv-homepage-3 `
       -Name "myPublicIP").IpAddress)
     ```
     
