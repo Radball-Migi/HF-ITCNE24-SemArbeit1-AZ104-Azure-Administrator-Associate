@@ -7,13 +7,13 @@ Als Basis zum Vergleich verwenden wir den Ist-Zustand und vergleichen dies mit d
 *Ist-Zustand der Schule Muster*
 
 
-![Soll-Zustand](../03_Entscheidung/Images/Logisches_Netzwerk_soll-Zustand_Entscheidung_Semesterarbeit_1.png)
+![Soll-Zustand](Logisches_Netzwerk_soll-Zustand_Entscheidung_Semesterarbeit_1.png)
 *Soll-Zustand der Schule Muster*
 
-Anhand der Nummerierung auf dem Bild "Soll-Zustand", werde ich nachfolgend erläutern, wie wir die Dienste oder Instanzen in die Cloud migrieren oder integrieren. 
+Anhand der Nummerierung auf dem Bild "Soll-Zustand", werde ich nachfolgend erläutern, wie wir die Dienste oder Instanzen in die Cloud migrieren oder integrieren. Wie wir einen Dienst ablösen, wird anhand der [7Rs](./Images/way_to_the_cloud.png) angegeben 
 
 1. **Entra ID**
-   Bis zum 1. Oktober 2023 hiess es noch Azure AD, als sich Microsoft dazu entschied, das Azure AD (AAD) in Microsoft Entra ID umzunennen. 
+   Bis zum 1. Oktober 2023 hiess es noch Azure AD, als sich Microsoft dazu entschied, das Azure AD (AAD) in Microsoft Entra ID um zu nennen. 
    Seit diesem Tag an, wird das Identity Access Management (IAM) unter Entra ID geführt. 
    Der Dienst wird im Azure betrieben und ist für die ganze Benutzer- und Gruppenverwaltung zuständig. 
    In diesem Projekt richten wir eine Hybridschnittstelle ein, da es weiterhin ein on-premise Active Directory geben wird. 
@@ -64,7 +64,7 @@ Anhand der Nummerierung auf dem Bild "Soll-Zustand", werde ich nachfolgend erlä
 4. **Desktopablösung**
    Mit der Desktopablösung wird gemeint, die mögliche Virtualisierung der Arbeitsstationen der Mittarbeitenden. 
    Dazu gibt es eine Separate Evaluation:
-   [Evaluation Desktopablösung](./Desktopreplacement.md)  
+   [Evaluation Desktopablösung](Desktopreplacement.md)  
 
 5. **On-Premise Umgebung** 
    Die On-Premise Umgebung wird weiterhin betrieben.

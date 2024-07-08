@@ -34,27 +34,27 @@ Eine Demo, welche zum jetzigen Zeitpunkt ausgeführt werden kann, gibt es nicht.
 Ich möchte dies jedoch in der Dokumentation mit Screenshots aufzeigen. 
 Am Tag der Präsentation würde dann eine Demo stattfinden.
 
-Um die Demoumgebung aufzubauen, kann das Script [setup_enviroment_loadbalancer_and_homepage.sh](./Scripts_for_Demos/setup_enviroment_loadbalancer_and_homepage.sh) verwendet werden. 
+Um die Demoumgebung aufzubauen, kann das Script [setup_enviroment_loadbalancer_and_homepage.sh](setup_enviroment_loadbalancer_and_homepage.sh) verwendet werden. 
 Wichtig zu beachten ist, dass die Setup-Dateien, in einem Repo stehen, welches nur mit einem Access-Token von mir herunter geladen werden können. 
 
 In dieser Demo zeige ich auf, wie wir den Loadbalancer eingerichtet haben und wie das mit einer Homepage ablaufen würde.
 
-Beim erstellen der Ressource, beachten wir zusätzlich das [Namenskonzept](../03_Entscheidung/Nameconcept.md), welches wir im vorhinein definiert haben. 
+Beim erstellen der Ressource, beachten wir zusätzlich das [Namenskonzept](Nameconcept.md), welches wir im vorhinein definiert haben. 
 
-![Ressourcen in Ressourcengruppe](./Images/Loadbalancer/rg_lb_demo_marked.png)
+![Ressourcen in Ressourcengruppe](rg_lb_demo_marked.png)
 *Ressourcen in Ressourcengruppe markiert*
 
 Wie wir hier sehen können haben wir in der Ressourcengruppe einen Loadbalancer, zwei VMs, deren SSDs, etc. 
 
 Die Konfiguration des Loadbalancers sieht folgendermassen aus:
-![Config Loadbalancer](./Images/Loadbalancer/config_loadbalancer.png) 
+![Config Loadbalancer](config_loadbalancer.png) 
 *Config Loadbalancer* 
 
-Ansonsten kann auch das JSON über diesen Link angeschaut werden: [JSON Config Loadbalancer](./Scripts_for_Demos/config/loadbalancerconfig.md) 
+Ansonsten kann auch das JSON über diesen Link angeschaut werden: [JSON Config Loadbalancer](loadbalancerconfig.md) 
 
 Die VMs werden über ein Cloud-Init-File erstellt, welches einen NGNX-Webserver installiert und auch gleich eine Demo Homepage, auf der aktuell ersichtlich ist, auf welchem Server wir uns befinden.
 
-![Website Demo](./Images/Loadbalancer/test_lb_for_Websites.png)
+![Website Demo](test_lb_for_Websites.png)
 *Demowebsite*
 Wie wir in dieser Abbildung sehen können, haben wir über zwei Browserprofile eine Anfrage auf die selbe IP-Adresse Durch den Loadbalancer werden die Anfragen dann auf die verschiedenen VMs aufgeteilt. 
 
@@ -83,7 +83,7 @@ In einem solchen Team kann man auch wiederum diverse Apps von Microsoft mit verw
 Für alle anderen Dateien, welche für Alle allgemein zugänglich sein sollen, kann man entweder dies im SharePoint auf einer SharePoint Site speichern. 
 Es gibt zwar auch die Möglichkeit dies über einen Azure Storage Blob zu speichern aber da SharePoint auch gleich in er Education-Lizenz integriert ist, macht es durch aus sinn, dies im SharePoint zu speichern. 
 
-![SharePoint Demosite](./Images/M365-Daten/SharePoint_Demosite.png)
+![SharePoint Demosite](SharePoint_Demosite.png)
 *SharePoint Demosite*
 
 ## Backup

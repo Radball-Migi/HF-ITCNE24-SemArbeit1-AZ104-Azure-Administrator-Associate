@@ -46,7 +46,7 @@ Ein genaues Konzept und vorgehen kann nach einer Analyse und Vorbesprechung ausg
 
 #### Namenskonzeption
 
-Das Namenskonzept würde wie folgt aufgebaut werden: 
+Das [Namenskonzept](./Nameconcept.md) wird gemäss der definition umgesetzt: 
 ##### UserPrincipalName (UPN)
 
 | Funktion      | UPN                                    |
@@ -84,14 +84,14 @@ Im der nachfolgenden Abbildung zeige ich die erstellten Benutzer.
 Nebst einem Admin Account und einer Test-Lehrperson, gibt es zusätzlich einen Breaking Glass Account. Dieser Account wird dafür verwendet, dass falls eine Tenanteinstellung auch alle Admins aussperrt, sollte der Breaking Glass Account sich immer noch einloggen können. 
 Dieser Account wird mit einem sehr langen Kennwort versehen und zusätzlich kann man mit Azure Monitor die Logins überwachen und sich so eine Alarmierung einrichten, sobald sich der Benutzer anmeldet. 
 
-![User](./Images/Identitymanagement/Users.png)
+![User](Users.png)
 *Benutzer der Schule Muster* 
 
 ## Gruppenerstellung 
 
 Bei der Gruppen Erstellung erstellen wir standardmässig Lizenzgruppen, Klassengruppen, Sicherheitsgruppen und E-Mail-aktivierte Sicherheitsgruppen. 
 
-Die Gruppen werden anhand des [Namenskonzepts](../03_Entscheidung/Nameconcept.md) erstellt.
+Die Gruppen werden anhand des [Namenskonzepts](Nameconcept.md) erstellt.
 
 Die standardgruppen, welche wir erstellen, wären folgende. 
 Je nach Anforderung kann es auch mehr Gruppen geben.
@@ -109,7 +109,7 @@ Je nach Anforderung kann es auch mehr Gruppen geben.
 | PWReset_Admins        | Sicherheitsgruppe            | Über diese Gruppe erhalten bestimmte Benutzer die Rolle Helpdeskadministrator über. <br>Mit diesen Berechtigungen können Sie allen Benutzer, welche nicht Admins sind, das Passwort zurücksetzen. |
 In der nachfolgenden Abbildung zeige ich einige der genannten Gruppen auf. 
 
-![Groups](./Images/Identitymanagement/Groups.png)
+![Groups](Groups.png)
 *Gruppen der Schule Muster*
 
 Da ich zur Zeit keinen Exchange Online in betrieb habe, kann ich leider nicht die E-Mail-aktivierten Sicherheitsgruppen zeigen, da diese über den Exchange verwaltet werden. 
@@ -119,7 +119,7 @@ Diese Gruppen würden jedoch dann als E-Mail-Verteiler fungieren.
 
 Bei jedem Login erhalten wir standardmässig die Seite von Microsoft zu sehen. 
 Dies kann man Tenantweit einstellen, indem man sein Firmenlogo und einen Hintergrund hinzufügt. 
-![Signinpage](./Images/Identitymanagement/Signinpage.png)
+![Signinpage](Signinpage.png)
 *Loginseite der Schule Muster* 
 
 Auf dieser Loginseite habe ich ein kleines Wappen durch Copilot erstellen lassen, welches ich als Organisationswappen hinterlegt habe. Zusätzlich habe ich den Loginbereich rechtsbündig gemacht, anstelle von dem zentralen Fenster und einen Hintergrund hinzugefügt. 
@@ -156,10 +156,10 @@ Ausserdem wird auch noch eingestellt, dass wenn sich der Benutzer im internen Ne
 
 Die beiden Richtlinien sind nun erstellt und beim nächsten Login werden dann die Benutzer zur Registrierung der MFA aufgefordert.
 
-![Conditional Access](./Images/Identitymanagement/Conditional_access.png)
+![Conditional Access](Conditional_access.png)
 *Bedingter Zugriff Schule Muster*
 
-![MFA Requirement](./Images/Identitymanagement/MFA_Requirement.png)
+![MFA Requirement](MFA_Requirement.png)
 *MFA wird beim nächsten Login verlangt*
 
 
@@ -176,16 +176,22 @@ Aus meiner Sicht macht dies durchaus sinn, nur für gewisse Personen den Service
 Aus diesem Grund gibt es auch die Sicherheitsgruppe `PWReset`. 
 Alle Benutzer welcher in dieser Gruppe sind, können ihr eigenes Passwort zurücksetzen. 
 
-![Conditional Access](./Images/Identitymanagement/PWReset.png)
+![Conditional Access](PWReset.png)
 *Einrichtung Selfservice für das Passwort zurücksetzen*
 
-![Conditional Access](./Images/Identitymanagement/PWReset_possible.png)
+![Conditional Access](PWReset_possible.png)
 *Benutzer ist in der Gruppe und kann PW-Zurücksetzen*
 
-![Conditional Access](./Images/Identitymanagement/PWReset_not_possible.png)
+![Conditional Access](PWReset_not_possible.png)
 *Benutzer ist nicht in der Gruppe drin und kann das Passwort nicht selbst zurücksetzen*
 
 ### Passwort durch Admins zurücksetzen (Nicht IT)
+
+Da die IT auch einmal verhindert sein kann und die Schüler ihre Passwörter nicht selbst zurücksetzen können, ist es sinnvoll, wenn man TICTs oder PICTs die Möglichkeit gibt, die Passwörter zurückzusetzen.
+Mit der Rolle Helpdeskadministrator, können bestimmte Lehrpersonen die Passwörter von nicht Administratoren zurücksetzen. 
+Diese Rolle wird den Benutzern über die Sicherheitsgruppe `PWReset_Admins` vergeben. 
+
+
 
 
 

@@ -16,7 +16,13 @@ Da ich bereits in der Hälfte der gegebenen Zeit massiv hinter her hinkte, weil 
 
 Risiko Risikostufe (Skala 1-10) Massnahme / Kommentar «Überladen» der Dokumentation, aufgrund Informationsbeschaffung 8 Wo möglich möglichst kurzhalten und allenfalls mit mehr Grafiken arbeiten Entra ID Konfiguration 10 Möglichkeit finden, den Entra ID Part Demonstrieren zu können, da in Student-Subscription das Entra ID gesperrt ist. Zertifizierungsprüfung 9 Fraglich, ob überhaupt möglich in solch kurzer Zeit noch Prüfungstermine zu finden, deshalb wird nicht ausgeschlossen, dass die Prüfung zu einem späteren Zeitpunkt nach der Semesterarbeit gemacht werden soll.
 
+## Was lerne ich aus dieser Semesterarbeit?
+
+Anhand dieser Semesterarbeit habe ich gelernt, dass sobald ich mich an einem Ort festgefahren habe, sollte ich mir eher die Hilfe aufsuchen, anstelle die Probleme lange selbst versuchen zu lösen. 
+Des Weiteren hat meine Mentalität, wie auch mein Körper sehr stark darunter gelitten. 
+
 
 Anhand der Zwischenbesprechungen, konnte ich so die Hilfe des Experten mit einbeziehen und mir eine gewisse Sicherheit einholen, ob ich auf dem richtigen Weg bin. 
 
-[Zwischengespräche](./Zwischenbesprechungen/Zwischenbesprechung1.md) 
+[Zum 1. Zwischengespräch](./Zwischenbesprechungen/Zwischenbesprechung1.md) 
+

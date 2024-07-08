@@ -13,19 +13,19 @@ Eine genauere Zeitplanung eines Projekts ist erst möglich, sobald die Schule Mu
 Die Zeitplanung in diesem Abschnitt ist eine ungefähre Kalkulation, welche für eine mögliche Realisierung verwendet werden kann. 
 
 
-## [**3. Entscheidung (Evaluationen)**](./03_Entscheidung/README.md)  
+## [**3. Entscheidung (Evaluationen)**](Praxis_Schule-Muster/03_Entscheidung_und_Realisierung/README.md)  
 
 ### 3.1 Namenskonzept
 
 Damit in einer Umgebung alles reibungslos funktionieren kann, braucht es auch ein strukturiertes Namenskonzept.
 
- [Namenskonzept](./03_Entscheidung/Nameconcept.md) 
+ [Namenskonzept](Nameconcept.md) 
 
 ### 3.2 Seusag
 
 Für die Realisierung dieses Projekts, werden einige Personen benötigt, weshalb hier die Systemgrenzen aufgezeigt werden, was ab welcher Person/Firma abhängt. 
 
-[SEUSAG](./03_Entscheidung/SEUSAG.md) 
+[SEUSAG](SEUSAG.md) 
 
 ### 3.3 Evaluation für Desktopablösung
 
@@ -36,12 +36,12 @@ Für die Evaluation stehen 3 Virtualisierungsoberflächen, welche alle als PaaS 
 - VMWare
 - Azure Virtual Desktops
 
-[Evaluierung der Desktopablösung](./03_Entscheidung/Desktopreplacement.md)  
+[Evaluierung der Desktopablösung](Desktopreplacement.md)  
 
 
 ### 3.4 Vergleich Ist- Soll-Zustand
 
-[Vergleich Ist- Soll-Zustand](./03_Entscheidung/compare_ist_soll-zustand.md)
+[Vergleich Ist- Soll-Zustand](compare_ist_soll-zustand.md)
 
 ### 3.5 Dokumentierung
 
