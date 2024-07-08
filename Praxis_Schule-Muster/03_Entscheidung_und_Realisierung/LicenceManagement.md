@@ -35,5 +35,5 @@ Bei der Benutzerübersicht kann man dies auch sehen, inklusive über welche Grup
 *Lizenzierte Benutzer der Schule Muster* 
 
 Genau sehen kann man das, unter der Spalte `Zuweisungspfade`
-Da gibt es die Verte `Direkt` oder `Geerbt (Gruppe)`
+Da gibt es die Werte `Direkt` oder `Geerbt (Gruppe)`
 
