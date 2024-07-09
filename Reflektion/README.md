@@ -76,3 +76,6 @@ Das erste Semester der HF war sehr lehrreich und mit unserer Klasse, sind wir ei
 Durch dieses Semester, konnte ich mich nun wieder an das Schulleben angewöhnen und werde hoffentlich Stärker in den anderen Arbeiten. 
 
 Ich Danke auch Ihnen, dem/der Leser`*`in , das Sie sich die Zeit dafür genommen haben. 
+
+
+> [⌂ **Zurück zur Hauptseite**](../README.md) 
