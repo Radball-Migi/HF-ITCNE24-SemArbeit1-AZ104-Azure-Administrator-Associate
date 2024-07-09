@@ -43,7 +43,7 @@ Eine genauere Zeitplanung eines Projekts ist erst möglich, sobald die Schule Mu
 Um die ganze Infrastruktur zu visualisieren, wird das ganze Logisch in einer Abbildung dargestellt, damit man sich so eine gute Übersicht der Lage und Dienste verschaffen kann. 
 
 
-## [**3. Entscheidung (Evaluationen)**](Praxis_Schule-Muster/03_Entscheidung_und_Realisierung/README.md)  
+## [**3. Entscheidung und Realisierung**](./03_Entscheidung_und_Realisierung/README.md)  
 
 ### 3.1 Dokumentierung
 
