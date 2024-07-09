@@ -11,6 +11,7 @@ In den Nachfolgenden Punkten werde ich auf alle Entscheidungen dieses Projekts e
 - [Serverablösung](./Serverreplacement.md)
 - [Identity Management](./IdentityManagement.md)
 - [Lizenz Management](./LicenceManagement.md)
+- [Pricing](./Pricing.md)
 
 <br>
 

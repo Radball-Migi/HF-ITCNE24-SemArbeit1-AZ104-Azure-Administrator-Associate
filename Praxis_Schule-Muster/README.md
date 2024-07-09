@@ -80,7 +80,7 @@ Das Identity Management ist dafür da, dass wir die Benutzer Autorisieren könne
 Ohne Lizenzen funktioniert gar nichts in einem Tenant. Jedoch wie wird das ganze Management aufgebaut?
 In diesem Abschnitt gehe ich genauer drauf ein. 
 
-### [3.8 Pricing](./Pricing.md)
+### [3.8 Pricing](./03_Entscheidung_und_Realisierung/Pricing.md)
 
 Unter Pricing werden die Kosten gemeint. auf dieser Seite zeige ich auf, was nur die Ressourcen für Kosten generieren. davon ist der Arbeitsaufwand und sonstige Kosten (Hardware und Aufwandskosten) ausgeschlossen. 
 
