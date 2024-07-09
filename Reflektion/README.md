@@ -25,6 +25,8 @@ Jedoch für diese 6 - 7 Wochen, welche ich für alles zusammen Zeit hatte, ist e
 | «Überladen» der Dokumentation, aufgrund Informationsbeschaffung | 8                        | Wo möglich möglichst kurzhalten und allenfalls mit mehr Grafiken arbeiten                                                                                                                                        |
 | Entra ID Konfiguration                                          | 10                       | Möglichkeit finden, den Entra ID Part Demonstrieren zu können, da in Student-Subscription das Entra ID gesperrt ist.                                                                                             |
 | Zertifizierung                                                  | 9                        | Fraglich, ob überhaupt möglich in solch kurzer Zeit noch Prüfungstermine zu finden, deshalb wird nicht ausgeschlossen, dass die Prüfung zu einem späteren Zeitpunkt nach der Semesterarbeit gemacht werden soll. |
+
+
 Durch die Risikobewertung, welche ich bereits im Voraus gemacht habe, konnte ich ggf. mich auf eine alternative vorbereiten. 
 Nachfolgend möchte ich auf die Punkte kurz eingehen:
 
