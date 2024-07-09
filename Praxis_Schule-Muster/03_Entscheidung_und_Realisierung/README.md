@@ -13,5 +13,6 @@ In den Nachfolgenden Punkten werde ich auf alle Entscheidungen dieses Projekts e
 - [Lizenz Management](./LicenceManagement.md)
 
 <br>
+
 > [⌂ **Zurück zur Projekthauptseite**](../README.md)
 
