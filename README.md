@@ -51,4 +51,4 @@ Unter den nachfolgenden Links, sind die einzelnen "Protokolle" zur jeweiligen Be
 <br>
 <br>
 
-> [⇧ **Nach Oben**](https://github.com/Radball-Migi/HF-ITCNE24-SemArbeit1-AZ104-Azure-Administrator-Associate)
+> [⇧ **Nach Oben**](./README.md) 
