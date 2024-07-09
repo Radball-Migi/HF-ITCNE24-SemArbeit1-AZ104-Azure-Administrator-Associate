@@ -70,7 +70,7 @@ Unter der Desktopablösung versteht sich darunter, die Arbeitsplatzauflösung un
 
 Bei der Serverablösung geht es darum, aufzuzeigen, wie wir die Dienste in die Cloud integrieren würden. 
 
-### [3.6 Identity Management](./03_Entscheidung_und_Realisierung/Identitymanagement.md) 
+### [3.6 Identity Management](./03_Entscheidung_und_Realisierung/IdentityManagement.md) 
 
 Das Identity Management ist dafür da, dass wir die Benutzer Autorisieren können, für gewisse Ressourcen und Zugriffe. Anhand diesem Abschnitt, beschreibe ich, wie die Grundeinstellung eines Entra ID machen würde. 
 
