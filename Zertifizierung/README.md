@@ -5,6 +5,7 @@ Leider habe ich die Zertifizierung nicht bestanden.
 Im Gesamten hatte ich 633 Punkte und für das bestehen waren min. 700 Punkte nötig. 
 
 ![Auswertung Zertifizierung](/Images/Result_Certificate_20240709.png)
+
 *Ergebnis Zertifizierungsprüfung*
 
 Im ersten Moment bin ich zwar niedergeschlagen, jedoch konnte ich eine weitere Erfahrung sammeln 
