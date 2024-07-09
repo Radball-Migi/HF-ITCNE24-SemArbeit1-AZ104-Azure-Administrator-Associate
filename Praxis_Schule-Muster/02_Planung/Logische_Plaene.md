@@ -7,6 +7,7 @@ Da die Schule Muster eine reine on Premisse Umgebung ist, müssen hier einige Ä
 Die aktuelle Umgebung, sieht wie folgt aus:
 
 ![Ist-Zustand logischer Plan](./Images/Logisches_Netzwerk_ist-Zustand_Semesterarbeit_1.png) 
+
 *Logisches Layout der Schule Muster (Ist-Zustand)*
 
 Wie wir sehen können, ist der ist-Zustand der Server folgendermassen:
