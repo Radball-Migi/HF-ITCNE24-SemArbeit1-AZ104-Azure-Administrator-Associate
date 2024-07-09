@@ -4,11 +4,13 @@ Anhand des Cloudeinstiegs der Schule Muster, müssen diverse Entscheidungen getr
 
 In den Nachfolgenden Punkten werde ich auf alle Entscheidungen dieses Projekts eingehen und an gewissen Orten, wie diese umgesetzt werden würden. 
 
-- [Namenskonzept](Nameconcept.md) 
-- [Identity Management](./IdentityManagement.md) 
-- [Vergleich Ist-Soll-Zustand](compare_ist_soll-zustand.md)
-- [SEUSAG](SEUSAG.md) 
-
+- [Namenskonzept](./Nameconcept.md) 
+- [Seusag](./SEUSAG.md)
+- [Vergleich Ist- Soll-Zustand](./compare_ist_soll-zustand.md) 
+- [Desktopablösung](./Desctopreplacement.md)
+- [Serverablösung](./Serverreplacement.md)
+- [Identity Management](./IdentityManagement.md)
+- [Lizenz Management](./LicenceManagement.md)
 
 <br>
 > [⌂ **Zurück zur Projekthauptseite**](../README.md)
