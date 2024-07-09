@@ -14,6 +14,8 @@ Beispiel:
 | ------------- | ---------- |
 | Azure Storage | S3 Buckets |
 | Azure VM      | EC2        |
+
+
 Sie haben zwar auch dienste, welche gleich heissen aber auf die Benennung kommt es gar nicht drauf an. 
 Im Grunde genommen haben beide Cloudanbieter +- die selben Dienste zur Verfügung. 
 Der eine Cloudanbieter ist im einen Stark und der andere in anderen Dingen. 
