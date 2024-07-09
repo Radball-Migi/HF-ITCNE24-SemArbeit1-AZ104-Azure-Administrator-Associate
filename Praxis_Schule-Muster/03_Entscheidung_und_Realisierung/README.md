@@ -7,7 +7,7 @@ In den Nachfolgenden Punkten werde ich auf alle Entscheidungen dieses Projekts e
 - [Namenskonzept](./Nameconcept.md) 
 - [Seusag](./SEUSAG.md)
 - [Vergleich Ist- Soll-Zustand](./compare_ist_soll-zustand.md) 
-- [Desktopablösung](./Desctopreplacement.md)
+- [Desktopablösung](./Desktopreplacement.md)
 - [Serverablösung](./Serverreplacement.md)
 - [Identity Management](./IdentityManagement.md)
 - [Lizenz Management](./LicenceManagement.md)
