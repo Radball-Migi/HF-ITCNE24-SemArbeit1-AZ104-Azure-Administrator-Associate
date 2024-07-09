@@ -32,16 +32,8 @@ Unter folgendem Link, können wir auf die Bash-Grundlagen zurückgreifen:
 [Bash Basics](./Bash_Grundlagen.md)
 
 
-
-
-
-
-
-
-
-
 <br>
 <br>
 
 > [➯ **Weiter zu "Azure PowerShell"**](./Azure_PowerShell.md) <br>
-> [⌂ **Zurück zur Hauptseite**](https://gitlab.com/e-portfolio1/hf-cloud-native-engineer/semesterarbeiten/semesterarbeit-1)
+> [⌂ **Zurück zur Azure Theorie**](../README.md)

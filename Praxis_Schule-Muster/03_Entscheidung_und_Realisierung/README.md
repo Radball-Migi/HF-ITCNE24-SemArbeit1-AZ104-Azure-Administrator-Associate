@@ -8,4 +8,8 @@ In den Nachfolgenden Punkten werde ich auf alle Entscheidungen dieses Projekts e
 - [Identity Management](./IdentityManagement.md) 
 - [Vergleich Ist-Soll-Zustand](compare_ist_soll-zustand.md)
 - [SEUSAG](SEUSAG.md) 
-- 
+
+
+<br>
+> [⌂ **Zurück zur Projekthauptseite**](../README.md)
+

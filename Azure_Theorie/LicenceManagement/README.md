@@ -22,4 +22,4 @@ Eine Allgemeine übersicht, der Lizenzen und Plänen sind unter folgendem Link �
 <br>
 <br>
 
-> [**⇤ Zurück zu Azure Theorie**](Azure_Theorie/)
+> [**⇤ Zurück zu Azure Theorie**](../README.md) 

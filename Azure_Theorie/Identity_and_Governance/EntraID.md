@@ -132,7 +132,7 @@ Als Alternative bietet Microsoft die Microsoft Entra Domain Services an. Dieser 
 
 Microsoft Entra Domainservices ist eine Art PaaS. 
 
-![Microsoft Entra Domain Services](Images/MicrosoftEntraDomainServices.png)
+![Microsoft Entra Domain Services](./Images/MicrosoftEntraDomainServices.png)
 
 Microsoft Entra ID kann in Ihr lokales AD DS integriert werden, was bedeutet, dass Benutzer ihre organisatorischen Anmeldeinformationen sowohl in lokalem AD DS als auch in Microsoft Entra Domain Services verwenden können. Selbst wenn Sie kein AD DS lokal bereitgestellt haben, können Sie Microsoft Entra Domain Services als reinen Clouddienst nutzen. Dies bietet Ihnen ähnliche Funktionen wie ein lokal bereitgestelltes AD DS, ohne dass Sie einen Domänencontroller lokal oder in der Cloud bereitstellen müssen.
 

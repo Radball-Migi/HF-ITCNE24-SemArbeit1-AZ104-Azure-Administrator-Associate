@@ -28,3 +28,8 @@ Anhand des nachfolgenden Plans, sehen Sie dann den neuen soll-Zustand.
 *Logisches Layout der Schule Muster (Soll-Zustand)* 
 
 Was genau geändert wurde, werde ich unter dem Abschnitt [Entscheidung](Praxis_Schule-Muster/03_Entscheidung_und_Realisierung/README.md) genauer drauf eingehen. 
+
+
+<br>
+> [⌂ **Zurück zur Projekthauptseite**](../README.md)
+

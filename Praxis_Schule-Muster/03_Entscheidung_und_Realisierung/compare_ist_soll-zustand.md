@@ -7,7 +7,7 @@ Als Basis zum Vergleich verwenden wir den Ist-Zustand und vergleichen dies mit d
 *Ist-Zustand der Schule Muster*
 
 
-![Soll-Zustand](Logisches_Netzwerk_soll-Zustand_Entscheidung_Semesterarbeit_1.png)
+![Soll-Zustand](./Images/Logisches_Netzwerk_soll-Zustand_Entscheidung_Semesterarbeit_1.png)
 *Soll-Zustand der Schule Muster*
 
 Anhand der Nummerierung auf dem Bild "Soll-Zustand", werde ich nachfolgend erläutern, wie wir die Dienste oder Instanzen in die Cloud migrieren oder integrieren. Wie wir einen Dienst ablösen, wird anhand der [7Rs](./Images/way_to_the_cloud.png) angegeben 
@@ -64,7 +64,7 @@ Anhand der Nummerierung auf dem Bild "Soll-Zustand", werde ich nachfolgend erlä
 4. **Desktopablösung**
    Mit der Desktopablösung wird gemeint, die mögliche Virtualisierung der Arbeitsstationen der Mittarbeitenden. 
    Dazu gibt es eine Separate Evaluation:
-   [Evaluation Desktopablösung](Desktopreplacement.md)  
+   [Evaluation Desktopablösung](./Desktopreplacement.md)   
 
 5. **On-Premise Umgebung** 
    Die On-Premise Umgebung wird weiterhin betrieben.
@@ -72,6 +72,7 @@ Anhand der Nummerierung auf dem Bild "Soll-Zustand", werde ich nachfolgend erlä
    Neu wird ein Microsoft 365 Backup eingerichtet, welches Alle Daten auf dem SharePoint sichert, inkl. der Teams. 
    
    
-   
+   <br>
+   > [⌂ **Zurück zur Projekthauptseite**](../README.md) 
    
    

@@ -115,18 +115,8 @@ Wenn Sie einer Gruppe Mitglieder hinzufügen, können Sie ihnen auf verschiedene
 |**Dynamischer Benutzer**|Verwenden Sie dynamische Mitgliedschaftsregeln, um Gruppenmitglieder automatisch hinzuzufügen und zu entfernen. Wenn sich Mitgliedsattribute ändern, überprüft Azure die dynamischen Gruppenregeln für das Verzeichnis. Wenn die Mitgliedsattribute die Regelanforderungen erfüllen, wird das Mitglied der Gruppe hinzugefügt. Wenn die Mitgliedsattribute die Regelanforderungen nicht mehr erfüllen, wird das Mitglied entfernt.|
 |**Dynamisches Gerät**|( _Nur Sicherheitsgruppen_ ) Wenden Sie dynamische Gruppenregeln an, um Geräte in Sicherheitsgruppen automatisch hinzuzufügen und daraus zu entfernen. Wenn sich Geräteattribute ändern, überprüft Azure die dynamischen Gruppenregeln für das Verzeichnis. Wenn die Geräteattribute die Regelanforderungen erfüllen, wird das Gerät der Sicherheitsgruppe hinzugefügt. Wenn die Geräteattribute die Regelanforderungen nicht mehr erfüllen, wird das Gerät entfernt.|
 
-
-
-
-
-
-
-
-
-
-
-<br>
 <br>
 
 > [**➯ Weiter zu ""**](./) <br>
-> [**⌂ Zurück zur Hauptseite**](https://gitlab.com/e-portfolio1/hf-cloud-native-engineer/semesterarbeiten/semesterarbeit-1)
+> [⌂ **Zurück zur Azure Theorie**](../README.md)
+

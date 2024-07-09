@@ -31,4 +31,5 @@ Aus diesem Grund ist die Benutzererstellung und die SharePoint Migration gekennz
 Auch wenn Exchange Online zu Microsoft 365 gehört, überlasse ich das unseren Exchange Spezialisten, da es dann hierbei auch um einen sauberen Rückbau des on-premise Servers geht. 
 
 
-
+<br>
+> [⌂ **Zurück zur Projekthauptseite**](../README.md) 

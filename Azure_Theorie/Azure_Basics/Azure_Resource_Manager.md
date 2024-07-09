@@ -183,4 +183,4 @@ Azure Ressource Manager ist unser Bereitstellungs- und Verwaltungsdienst für Az
 <br>
 
 > [➯ **Weiter zu "Azure Cloud Shell"**](./Azure_Cloud_Shell.md) <br>
-> [⌂ **Zurück zur Hauptseite**](.../README.md)
+> [⌂ **Zurück zur Azure Theorie**](../README.md)

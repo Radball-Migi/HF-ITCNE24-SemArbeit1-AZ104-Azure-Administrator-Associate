@@ -121,7 +121,7 @@ Sie können Bicep anstelle von JSON verwenden, um Ihre Azure Resource Manager-Vo
 Wenn eine Ressource oder eine Reihe von Ressourcen in Azure bereitgestellt werden, konvertieren die in Bicep integrierten Tools das Bicep-Template in ein JSON-Template. Dieser Vorgang wird als Transpilierung bezeichnet. Transpilierung ist der Vorgang, bei dem Quellcode, der in einer Sprache geschrieben wurde, in eine andere Sprache konvertiert wird.
 Dies veranschaulicht auch die nachfolgende Grafik:
 
-![File Share Azure Cloud Shell](Images/Azure_Resource_Manager-Template_Bicep.png)
+![File Share Azure Cloud Shell](./Images/Azure_Resource_Manager-Template_Bicep.png)
 
 Im Vergleich zu JSON bietet Bicep viele Verbesserungen für die Templateerstellung, darunter: 
 - **Einfachere Syntax**
@@ -154,7 +154,7 @@ resource storageAccount 'Microsoft.Storage/storageAccounts@2021-06-01' = {
 - **Type-Validierung und IntelliSense** 
   Die Bicep-Erweiterung für Visual Studio Code bietet umfassende Validierung und IntelliSense für alle API-Definitionen von Azure-Ressourcentypen. Diese Funktion erleichtert die Erstellung.
 
-![Bicep extansion in VS-Code](Images/ARM_Bicep_Gif.gif)
+![Bicep extansion in VS-Code](./Images/ARM_Bicep_Gif.gif)
 *Quelle: Microsoft Doku Azure Bicep*
 
   
@@ -166,7 +166,7 @@ resource storageAccount 'Microsoft.Storage/storageAccounts@2021-06-01' = {
 Einige Templates bieten alles, was wir zum Bereitstellen unserer Lösung benötigen, während andere als Ausgangspunkt für unsere Vorlage dienen können. In jedem Fall können wir diese Vorlagen studieren, um zu lernen, wie wir unsere eigenen Vorlagen am besten erstellen und strukturieren.
 Die Quickstart-Templates werden unteranderem in Github abgespeichert, wo wir min. drei Dateitypen vorfinden werden:
 
-![ARM QuickStart-Template](Images/ARM_QuickStart-Templates.png)
+![ARM QuickStart-Template](./Images/ARM_QuickStart-Templates.png)
 
 - Die Datei README.md bietet einen Überblick über die Funktion der Vorlage.
 - Die Datei azuredeploy.json definiert die Ressourcen, die bereitgestellt werden.
@@ -178,7 +178,5 @@ Die Quickstart-Templates werden unteranderem in Github abgespeichert, wo wir min
 [Lab Simulation zu ARM-Templates](./Azure_Resource_Manager-Template_Lab.md)
 
 <br>
-<br>
 
-> [**⇤ Zurück zu "Azure Theorie"**](./README.md) <br>
-> [⌂ **Zurück zur Hauptseite**](https://gitlab.com/e-portfolio1/hf-cloud-native-engineer/semesterarbeiten/semesterarbeit-1)
+> [⌂ **Zurück zur Azure Theorie**](../README.md)

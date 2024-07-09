@@ -100,4 +100,7 @@ Als Referenz für ein ungefähres Pricing, nehme ich das Acer TravelMate Spin P4
 
 Die Notebooks würden dann über Intune verwaltet werden. 
 
+<br>
+
+> [⌂ **Zurück zur Projekthauptseite**](../README.md)
 

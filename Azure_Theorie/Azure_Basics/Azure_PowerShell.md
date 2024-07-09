@@ -132,12 +132,11 @@ Get-Command -Verb Get -Noun alias*
 ```
 *Nun suchen wir weiter, zusätzlich neben dem Nomen-Teil, suchen wir noch den Verb-Teil ab, welcher gleich `Get` lautet*.
 
-
-
 <br>
 <br>
 
 > [➯ **Weiter zu "Azure Resource Manager-Templates"**](./Azure_Resource_Manager-Templates.md) <br>
-> [⌂ **Zurück zur Hauptseite**](https://gitlab.com/e-portfolio1/hf-cloud-native-engineer/semesterarbeiten/semesterarbeit-1)
+> [⌂ **Zurück zur Azure Theorie**](../README.md)
+
 
 

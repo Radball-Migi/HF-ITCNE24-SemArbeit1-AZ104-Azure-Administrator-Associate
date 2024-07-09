@@ -55,3 +55,7 @@ Auflistung der Kosten oder der Empfehlung erwähnt:
 - Hardware (Notebooks für SuS)
 - Intune
 - Netzwerkaufbau (Router, Firewall, APs, WLAN, IPs, LAN, etc)
+
+<br>
+
+> [⌂ **Zurück zur Projekthauptseite**](../README.md) 

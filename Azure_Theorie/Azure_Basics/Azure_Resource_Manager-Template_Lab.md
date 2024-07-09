@@ -8,7 +8,7 @@ Tailwind Traders migrieren ihren Speicherbedarf nach Azure. Sie haben erfolgreic
 
 Ihre erste Datenträgerbereitstellung in der Ressourcengruppe az104- **03a** -rg1 ist abgeschlossen. Sie möchten die Vorlage anpassen und sie verwenden, um einen weiteren Datenträger in der Ressourcengruppe az104- **03b** -rg1 bereitzustellen.
 
-![Lab Architekturdiagramm](Images/ARM-Template_Lab_Architekturiagramm.png)
+![Lab Architekturdiagramm](./Images/ARM-Template_Lab_Architekturiagramm.png)
 
 ## Aufgaben
 
@@ -16,7 +16,7 @@ Ihre erste Datenträgerbereitstellung in der Ressourcengruppe az104- **03a** -
 - **Aufgabe 2** : Erstellen Sie mithilfe einer ARM-Vorlage einen verwalteten Azure-Datenträger.
 - **Aufgabe 3** : Überprüfen Sie die auf ARM-Vorlagen basierende Bereitstellung des verwalteten Datenträgers.
 
-![Start Bildschirm Lab](Images/LabSimulationTemplates/Beginn.png) 
+![Start Bildschirm Lab](./LabSimulationTemplates/Beginn.png) 
 
 ### Aufgabe 1
 
@@ -24,7 +24,7 @@ Da es bereits eine Vorlage gab, aus der "vorherigen" Bereitstellung, wird dieses
 Um dieses Template zu sehen, öffnen wir im Azure Portal, die Ressourcengruppe, welche das Template bereits verwendet hat. 
 Auf der Ressourcen Gruppe, gibt es dann den Reiter **Deployments** oder **Bereitstellung** unter **Settings/Einstellungen**. Dort drin sehen wir dann alle Bereitstellungen, inkl. dieser, welche wir verwenden möchten. Diejenige klicken wir an.  
 
-![Template Öffnen für Download](Images/LabSimulationTemplates/OpenTemplate.png)
+![Template Öffnen für Download](./LabSimulationTemplates/OpenTemplate.png) 
 
 Sobald es geöffnet ist, können wir es durchschauen und Downloaden. 
 Nach dem Download können wir das Zip auch gleich im Explorer Entzipen.

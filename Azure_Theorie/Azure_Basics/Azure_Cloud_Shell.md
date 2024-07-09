@@ -75,4 +75,4 @@ In folgenden Fällen sollten wir Azure Cloud Shell nicht verwenden:
 <br>
 
 > [**➯ Weiter zu "Azure Bash"**](./Azure_Bash.md) <br>
-> [**⌂ Zurück zur Hauptseite**](https://gitlab.com/e-portfolio1/hf-cloud-native-engineer/semesterarbeiten/semesterarbeit-1)
+> [⌂ **Zurück zur Azure Theorie**](../README.md)
