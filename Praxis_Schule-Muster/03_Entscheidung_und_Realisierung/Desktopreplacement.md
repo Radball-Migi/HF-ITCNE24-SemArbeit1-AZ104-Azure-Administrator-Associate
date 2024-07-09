@@ -96,6 +96,7 @@ Da dieses Projekt mit dem Cloudeinstieg zu tun hat, gebe ich hier nur ein Model 
 
 Als Referenz für ein ungefähres Pricing, nehme ich das Acer TravelMate Spin P4.
 ![Acer Notebook](./Images/Acer_TMSPP4.png)
+
 *Acer TravelMate Spin P4 für die Mitarbeitenden der Schule Muster*
 
 Die Notebooks würden dann über Intune verwaltet werden. 
