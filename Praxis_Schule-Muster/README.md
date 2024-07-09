@@ -3,14 +3,14 @@
 ## **1. Informationen**
 
 - [1.1 Ausgangslage](./01_Informationen/Ausgangslage.md)
-## **2. Planung**
+## [**2. Planung**](./02_Planung/README.md)
 
 ### 2.1 Zeitplanung
 
 Ein Zeitplan für dieses Projekt, im Rahmen der Semesterarbeit ist so, zur Zeit nicht möglich, da keine Realisierungsstrategie definiert wurde und nicht Klar ist, was im Endeffekt realisiert wird. 
 Eine genauere Zeitplanung eines Projekts ist erst möglich, sobald die Schule Muster endgültig definiert, was sie genau umgesetzt haben möchten.
 
-Die Zeitplanung in diesem Abschnitt ist eine ungefähre Kalkulation, welche für eine mögliche Realisierung verwendet werden kann. 
+### [2.2 Logische Pläne](./02_Planung/Logische_Plaene.md) 
 
 
 ## [**3. Entscheidung (Evaluationen)**](Praxis_Schule-Muster/03_Entscheidung_und_Realisierung/README.md)  

@@ -59,5 +59,5 @@ Des Weiteren hat meine Mentalität, wie auch mein Körper sehr stark darunter ge
 
 Anhand der Zwischenbesprechungen, konnte ich so die Hilfe des Experten mit einbeziehen und mir eine gewisse Sicherheit einholen, ob ich auf dem richtigen Weg bin. 
 
-[Zum 1. Zwischengespräch](./Zwischenbesprechungen/Zwischenbesprechung1.md) 
+[Zum 1. Zwischengespräch](Zwischenbesprechung1.md) 
 

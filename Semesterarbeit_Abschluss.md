@@ -9,4 +9,4 @@
 <br>
 <br>
 
-> [⌂ **Zurück zur Hauptseite**](https://github.com/Radball-Migi/HF-ITCNE24-SemArbeit1-AZ104-Azure-Administrator-Associate)
+> [⌂ **Zurück zur Hauptseite**](../README.md) 

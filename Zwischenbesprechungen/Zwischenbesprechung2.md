@@ -28,14 +28,5 @@ Da ich aktuell von 6 Themenbereichen erst 1.5 Abgeschlossen habe, muss ich mich 
 
 
 
-
-
-
-
-
-
-<br>
-<br>
-
-> [**➯ Weiter zur 3. Zwischenbesprechung**](Zwischenbesprechung3.md) <br>
-> [⌂ **Zurück zur Hauptseite**](https://github.com/Radball-Migi/HF-ITCNE24-SemArbeit1-AZ104-Azure-Administrator-Associate)
+> [**➯ Weiter zur 3. Zwischenbesprechung**](./Zwischenbesprechung3.md) <br>
+> [⌂ **Zurück zur Hauptseite**](../README.md) 
