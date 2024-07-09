@@ -31,7 +31,7 @@
 ### [1.1 Ausgangslage](./01_Informationen/Ausgangslage.md) 
 
 
-## [**2. Planung**](./02_Planung/README.md)
+## **2. Planung** 
 
 ### 2.1 Zeitplanung
 
