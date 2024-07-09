@@ -83,7 +83,7 @@ In einem solchen Team kann man auch wiederum diverse Apps von Microsoft mit verw
 Für alle anderen Dateien, welche für Alle allgemein zugänglich sein sollen, kann man entweder dies im SharePoint auf einer SharePoint Site speichern. 
 Es gibt zwar auch die Möglichkeit dies über einen Azure Storage Blob zu speichern aber da SharePoint auch gleich in er Education-Lizenz integriert ist, macht es durch aus sinn, dies im SharePoint zu speichern. 
 
-![SharePoint Demosite](SharePoint_Demosite.png)
+![SharePoint Demosite](./Images/M365-Daten/SharePoint_Demosite.png) 
 *SharePoint Demosite*
 
 ## Backup
