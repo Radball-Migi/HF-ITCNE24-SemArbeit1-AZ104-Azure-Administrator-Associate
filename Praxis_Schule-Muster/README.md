@@ -74,7 +74,7 @@ Bei der Serverablösung geht es darum, aufzuzeigen, wie wir die Dienste in die C
 
 Das Identity Management ist dafür da, dass wir die Benutzer Autorisieren können, für gewisse Ressourcen und Zugriffe. Anhand diesem Abschnitt, beschreibe ich, wie die Grundeinstellung eines Entra ID machen würde. 
 
-### [3.7 Lizenz Management](./03_Entscheidung_und_Realisierung/LicenceMAnagement.md) 
+### [3.7 Lizenz Management](./03_Entscheidung_und_Realisierung/LicenceManagement.md) 
 
 Ohne Lizenzen funktioniert gar nichts in einem Tenant. Jedoch wie wird das ganze Management aufgebaut?
 In diesem Abschnitt gehe ich genauer drauf ein. 
