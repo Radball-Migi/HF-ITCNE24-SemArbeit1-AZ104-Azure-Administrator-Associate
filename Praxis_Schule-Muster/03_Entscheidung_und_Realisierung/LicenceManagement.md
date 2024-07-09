@@ -15,9 +15,9 @@ Eine Lizenz höher, ist die Education A3 Lizenz, welche die selben Dienste wie d
 Die nächste und letzte Lizenzstufe, wäre die A5, welche zusätzlich von der A3 weitere Dienste im Bereich Security und Compliance beinhaltet. 
 Dazu gehörten Entra ID P2 und weitere Defender-Dienste.
 
-## Lizenzzuweisung
+## Lizenz Zuweisung
 
-Die Lizenzzuweisung findet über Gruppen statt. 
+Die Lizenz Zuweisung findet über Gruppen statt. 
 Wir haben dafür unter den Gruppen 3 Lizenzgruppen erstellt 
 ![Licencegroups](./Images/Identitymanagement/groups.png)
 *Lizenzgruppen (M365_A3_`*`)* 
@@ -37,3 +37,5 @@ Bei der Benutzerübersicht kann man dies auch sehen, inklusive über welche Grup
 Genau sehen kann man das, unter der Spalte `Zuweisungspfade`
 Da gibt es die Werte `Direkt` oder `Geerbt (Gruppe)`
 
+<br>
+> [⌂ **Zurück zur Projekthauptseite**](../README.md) 

@@ -22,4 +22,7 @@ Da die Daten nur noch mit mühe von der VDI kopiert oder verschoben werden könn
 
 Um das ganze kurz zu Fassen, Ja, ich würde dies so empfehlen, als Grundkonstrukt, welches man zukünftig ausbauen kann. 
 
+<br>
+> [⌂ **Zurück zur Projekthauptseite**](../README.md)
+
 
