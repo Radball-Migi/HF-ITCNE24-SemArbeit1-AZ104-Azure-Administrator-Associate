@@ -2,10 +2,11 @@
 
 Anhand des Cloudeinstiegs der Schule Muster, werden einige Dienste und Server entweder abgelöst oder Migriert. 
 Auf dieser Site wird  beschrieben, wie ich die Dienste in die Cloud integrieren würde. 
-Als Basis zum Vergleich verwenden wir den Ist-Zustand und vergleichen dies mit dem Soll-Zustand. 
+Als Basis zum Vergleich verwenden wir den Ist-Zustand und vergleichen dies mit dem Soll-Zustand. <br>
 ![Ist-Zustand](../02_Planung/Images/Logisches_Netzwerk_ist-Zustand_Semesterarbeit_1.png) 
 *Ist-Zustand der Schule Muster*
 
+<br>
 
 ![Soll-Zustand](./Images/Logisches_Netzwerk_soll-Zustand_Entscheidung_Semesterarbeit_1.png)
 *Soll-Zustand der Schule Muster*
