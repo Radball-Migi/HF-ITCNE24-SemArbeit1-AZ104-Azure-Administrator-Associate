@@ -96,4 +96,5 @@ Im Azure haben wir einige Dienste, hier gilt ein zentrales Namenskonzept, welche
 | az-srv-sm-`******`-1 | Server             | `az` = **Az**ure<br>`srv` = Virtuelle Maschine`<br>`sm` = **S**chule **M**uster`<br>`******` = Art des Servers (Bsp.: DC = Domain Controler, SQL = SQL-Datenbank-Server, Web = Webserver, etc. )<br>`1` = Fortlaufende Nummerierung |
 
 <br>
+
 > [⌂ **Zurück zur Projekthauptseite**](../README.md) 

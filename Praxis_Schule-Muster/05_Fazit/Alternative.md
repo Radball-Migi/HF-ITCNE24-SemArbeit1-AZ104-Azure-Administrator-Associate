@@ -26,6 +26,7 @@ Dies müsste man bei Gelegenheit einmal testen.
 Deshalb hätte ich als Alternative eine Multicloud-Lösung vorgeschlagen, da von den Office-Applikationen auf openOffice zu wechseln tendenziell nicht von Vorteil ist, würde ich da eine Alternative vorschlagen, dass man die ganze Cloud Computing-Sache auch auf AWS machen kann und die Office-Apps bei Microsoft bleiben würden. 
 
 <br>
+
 > [⌂ **Zurück zur Projekthauptseite**](../README.md) 
 
 

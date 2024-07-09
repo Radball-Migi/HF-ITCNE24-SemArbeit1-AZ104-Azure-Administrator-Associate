@@ -38,4 +38,5 @@ Genau sehen kann man das, unter der Spalte `Zuweisungspfade`
 Da gibt es die Werte `Direkt` oder `Geerbt (Gruppe)`
 
 <br>
+
 > [⌂ **Zurück zur Projekthauptseite**](../README.md) 
