@@ -5,12 +5,12 @@ Leider habe ich die Zertifizierung nicht bestanden.
 Im Gesamten hatte ich 633 Punkte und für das bestehen waren min. 700 Punkte nötig. 
 
 ![Auswertung Zertifizierung](/Images/Result_Certificate_20240709.png)
-*Ergebniss Zertifizierungsprüfung*
+*Ergebnis Zertifizierungsprüfung*
 
 Im ersten Moment bin ich zwar niedergeschlagen, jedoch konnte ich eine weitere Erfahrung sammeln 
 Ich weiss nun wie eine solche Prüfung/Zertifizierung aufgebaut ist und werde für das nächste mal hoffentlich nicht all zu nervös sein. 
 
-Was mich erstaunt hat, ist dass eines meiner Stärksten Bereiche der Azure Storagepart war. 
+Was mich erstaunt hat, ist dass eines meiner Stärksten Bereiche der Azure Storage-Part war. 
 Dieser Part war für mich etwas schwierig zum lernen und ich hatte vor allem mühe, mit den verschiedenen Speicher Möglichkeiten. 
 
 Hingegen bin ich mit dem Identity und Governance nicht zufrieden. 

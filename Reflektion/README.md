@@ -20,7 +20,6 @@ Jedoch für diese 6 - 7 Wochen, welche ich für alles zusammen Zeit hatte, ist e
 
 ## Risikobewertung Auswertung
 
-
 | Risiko                                                          | Risikostufe (Skala 1-10) | Massnahme / Kommentar                                                                                                                                                                                            |
 | --------------------------------------------------------------- | ------------------------ | ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
 | «Überladen» der Dokumentation, aufgrund Informationsbeschaffung | 8                        | Wo möglich möglichst kurzhalten und allenfalls mit mehr Grafiken arbeiten                                                                                                                                        |
@@ -32,7 +31,7 @@ Nachfolgend möchte ich auf die Punkte kurz eingehen:
 ### Risiko 1
 Im Ersten Risiko geht es darum, dass ich meine Dokumentation mit viel Input überhäufe. 
 #### Bewertung Risiko 1
-Ich würde das Risiko als erfolgreich abgewendet erklären, da aus meiner ischt die Doku sehr kurz gehalten ist. 
+Ich würde das Risiko als erfolgreich abgewendet erklären, da aus meiner sicht die Doku sehr kurz gehalten ist. 
 Durch einige Bilder, konnten einige Beschreibungen auch wegelassen werden und diese mit einem Satz kurz erläutert werden. 
 
 ### Risiko 2
@@ -46,9 +45,11 @@ Das Risiko 3 ist eines, was mir am meisten angst zubereitet hat. In einem Zeitfe
 Durch die kurze Zeit, habe ich erst versucht mich an einer Prüfung anzumelden, als ich fertig war mit dem Lernen. Um mir genügend Zeit zu beschaffen, um die Theorie an gewissen orten noch zu festigen, habe ich einen Termin für am 09.07.24 vereinbart. 
 Dieser Termin war damals noch der Einzige in dieser Woche, welcher möglich war, deshalb würde ich hier sagen, gerade noch die Kurve gekriegt. 
 
+### Zertifizierungsprüfung
 
-
-
+Da ich leider die Zertifizierungsprüfung nicht bestanden habe, bin ich zunächst Enttäuscht und und Frustriert ab mir selbst. Aus meiner Sicht war es knapp, was mich zusätzlich frustriert hat. 
+An was dass es genau gelegen hat, kann ich so zu r Zeit nicht sagen. 
+Wie bereits oben erwähnt, ist der AZ-104 sehr viel, weshalb aus meiner Sicht 6-7 Wochen nicht ausreichen zum Lernen. 
 
 
 ## Was lerne ich aus dieser Semesterarbeit?
@@ -56,8 +57,22 @@ Dieser Termin war damals noch der Einzige in dieser Woche, welcher möglich war,
 Anhand dieser Semesterarbeit habe ich gelernt, dass sobald ich mich an einem Ort festgefahren habe, sollte ich mir eher die Hilfe aufsuchen, anstelle die Probleme lange selbst versuchen zu lösen. 
 Des Weiteren hat meine Mentalität, wie auch mein Körper sehr stark darunter gelitten. 
 
+Für die Zertifizierungsprüfung war ich sehr nervös, ich denke für das nächste Mal, werde ich bereits weniger Nervös sein als beim 1. Mal, da ich dann den ungefähren Umfang bereits kenne. 
+Bei einem nächsten Mal würde ich nicht gleich wieder eine Stufe höher nehmen, welche mit mehr aufwand gebunden ist. 
+Ich werde ausserdem für die "Nachprüfung" oder auch den erneuten Versuch, über die Sommerferien lernen, damit ich entweder noch in den Ferien oder gleich danach nochmals an die Prüfung kann.
 
+### Zwischenbesprechungen
 Anhand der Zwischenbesprechungen, konnte ich so die Hilfe des Experten mit einbeziehen und mir eine gewisse Sicherheit einholen, ob ich auf dem richtigen Weg bin. 
 
-[Zum 1. Zwischengespräch](Zwischenbesprechung1.md) 
+[Zum 1. Zwischengespräch](./Zwischenbesprechungen/Zwischenbesprechung1.md) 
 
+
+
+# Schlusswort
+
+Zum Schluss möchte ich mich bei allen Bedanken, welche mich Privat, geschäftlich oder fachlich unterstützt haben. 
+Das erste Semester der HF war sehr lehrreich und mit unserer Klasse, sind wir eine tolle Truppe, welche sich gegenseitig unterstützt. 
+
+Durch dieses Semester, konnte ich mich nun wieder an das Schulleben angewöhnen und werde hoffentlich Stärker in den anderen Arbeiten. 
+
+Ich Danke auch Ihnen, dem/der Leser`*`in , das Sie sich die Zeit dafür genommen haben. 

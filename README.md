@@ -3,25 +3,18 @@
 # Cloudeinstieg der Schule Muster inkl. <br> Zertifizierung AZ-104, Microsoft Certified: Azure Administrator Associate
 
 
-![Logo AZ104](Images/AZ104_Image.png)
-
-
-## Inhaltsverzeichnis
-
-
-
-
-
+![Logo AZ104](./Images/AZ104_Image.png)
 
 ## 1. Azure Theorie
 
 ### [Azure Theorie](./Azure_Theorie/) 
 
+> [!WARNING]  
+> Aufgrund des Rückstandes des Projekts, wurde die Priorisierung angepasst und somit wird die Dokumentierung der Theorie zu einem späteren Zeitpunkt fertiggestellt. 
+> Weitere Infos können Sie unter [Entscheidung Priorisierung](./Zwischenbesprechungen/Zwischenbesprechung2.md) einsehen.
 
-## 2. Praxis (Teilprojekt Schule Muster)
 
-### [Schule Muster](./Praxis_Schule-Muster/)
-
+## [2. Praxis (Teilprojekt Schule Muster)](./Praxis_Schule-Muster/)
 
 ## 3. Zwischenbesprechungen
 
@@ -34,11 +27,5 @@ Unter den nachfolgenden Links, sind die einzelnen "Protokolle" zur jeweiligen Be
 - [2. Zwischengespräch (14.06.2024 oder 24.06.2024)](./Zwischenbesprechungen/Zwischenbesprechung2.md)
 - [3. Zwischengespräch (hat nicht Stattgefunden)](./Zwischenbesprechungen/Zwischenbesprechung3.md)
 
-## 4. Zertifizierung
-
-### [Zertifizierung](Zertifizierung/README.md)
-
-
-## 5. Schlusswort
-
-### [Schlusswort](Semesterarbeit_Abschluss.md)
+## [4. Zertifizierung](./Zertifizierung/README.md)
+## [5. Reflektion & Schlusswort](./Reflektion/README.md) 
