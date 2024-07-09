@@ -2,7 +2,29 @@
 
 ## **Inhaltsverzeichnis** 
 
-
+[Praxisarbeit](#praxisarbeit-schule-muster)
+- [Praxisarbeit Schule Muster](#praxisarbeit-schule-muster)
+  - [**Inhaltsverzeichnis**](#inhaltsverzeichnis)
+  - [**1. Informationen**](#1-informationen)
+    - [1.1 Ausgangslage](#11-ausgangslage)
+  - [**2. Planung**](#2-planung)
+    - [2.1 Zeitplanung](#21-zeitplanung)
+    - [2.2 Logische Pläne](#22-logische-pläne)
+  - [**3. Entscheidung (Evaluationen)**](#3-entscheidung-evaluationen)
+    - [3.1 Dokumentierung](#31-dokumentierung)
+    - [3.1 Namenskonzept](#31-namenskonzept)
+    - [3.2 Seusag](#32-seusag)
+    - [3.3 Vergleich Ist- Soll-Zustand](#33-vergleich-ist--soll-zustand)
+    - [3.4 Desktopablösung](#34-desktopablösung)
+    - [3.5 Serverablösung](#35-serverablösung)
+    - [3.6 Identity Management](#36-identity-management)
+    - [3.7 Lizenz Management](#37-lizenz-management)
+  - [**4. Weitere Schritte**](#4-weitere-schritte)
+  - [**5. Fazit**](#5-fazit)
+    - [5.1 Empfehlung für die Schule Muster](#51-empfehlung-für-die-schule-muster)
+    - [5.2 Alternativen](#52-alternativen)
+  - [**6. Reflektion**](#6-reflektion)
+  
 
 ## **1. Informationen**
 
