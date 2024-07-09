@@ -64,7 +64,7 @@ Ich werde ausserdem für die "Nachprüfung" oder auch den erneuten Versuch, übe
 ### Zwischenbesprechungen
 Anhand der Zwischenbesprechungen, konnte ich so die Hilfe des Experten mit einbeziehen und mir eine gewisse Sicherheit einholen, ob ich auf dem richtigen Weg bin. 
 
-[Zum 1. Zwischengespräch](./Zwischenbesprechungen/Zwischenbesprechung1.md) 
+[Zum 1. Zwischengespräch](../Zwischenbesprechungen/Zwischenbesprechung1.md) 
 
 
 
