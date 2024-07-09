@@ -34,7 +34,7 @@ Eine Demo, welche zum jetzigen Zeitpunkt ausgeführt werden kann, gibt es nicht.
 Ich möchte dies jedoch in der Dokumentation mit Screenshots aufzeigen. 
 Am Tag der Präsentation würde dann eine Demo stattfinden.
 
-Um die Demoumgebung aufzubauen, kann das Script [setup_enviroment_loadbalancer_and_homepage.sh](./Scripts_forDemos/setup_enviroment_loadbalancer_and_homepage.sh) verwendet werden. 
+Um die Demoumgebung aufzubauen, kann das Script [setup_enviroment_loadbalancer_and_homepage.sh](./Scripts_for_Demos/setup_enviroment_loadbalancer_and_homepage.sh) verwendet werden. 
 Wichtig zu beachten ist, dass die Setup-Dateien, in einem Repo stehen, welches nur mit einem Access-Token von mir herunter geladen werden können. 
 
 In dieser Demo zeige ich auf, wie wir den Loadbalancer eingerichtet haben und wie das mit einer Homepage ablaufen würde.
