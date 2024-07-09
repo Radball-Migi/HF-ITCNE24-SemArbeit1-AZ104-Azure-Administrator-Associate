@@ -18,9 +18,9 @@
 
 
 
-## 2. Azure Theorie
+## 1. Azure Theorie
 
-### [2.1 Azure Theorie](./Azure_Theorie/)
+### [1.1 Azure Theorie](./Azure_Theorie/) 
 
 
 ## 3. Praxis (Teilprojekt Schule Muster)
@@ -47,8 +47,3 @@ Unter den nachfolgenden Links, sind die einzelnen "Protokolle" zur jeweiligen Be
 ## 6. Schlusswort
 
 ### [6.1 Schlusswort](Semesterarbeit_Abschluss.md)
-
-<br>
-<br>
-
-> [⇧ **Nach Oben**](./README.md) 
