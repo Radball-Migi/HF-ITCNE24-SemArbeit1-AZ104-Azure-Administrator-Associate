@@ -4,7 +4,7 @@ Mit SEUSAG zeige ich die Systemgrenzen von diesem Projekt auf.
 
 In der nachfolgenden Abbildung wird aufgezeigt, wo die Systemgrenzen des Projekts sind. 
 
-![SEUSAG](SEUSAG.png)
+![SEUSAG](./Images/SEUSAG/SEUSAG.png)
 
 In der Abbildung ist zu sehen, wie die Bereiche IT-Firma und Schule Muster in einem grossen Kreis zusammengefasst sind. 
 Bei diesem Einstieg in die Cloud wird vieles neu gemacht, weshalb dies auch mehrheitlich im Bereich des IT-Dienstleisters fliesst.
