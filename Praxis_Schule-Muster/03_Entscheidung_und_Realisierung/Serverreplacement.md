@@ -34,7 +34,7 @@ Eine Demo, welche zum jetzigen Zeitpunkt ausgeführt werden kann, gibt es nicht.
 Ich möchte dies jedoch in der Dokumentation mit Screenshots aufzeigen. 
 Am Tag der Präsentation würde dann eine Demo stattfinden.
 
-Um die Demoumgebung aufzubauen, kann das Script [setup_enviroment_loadbalancer_and_homepage.sh](setup_enviroment_loadbalancer_and_homepage.sh) verwendet werden. 
+Um die Demoumgebung aufzubauen, kann das Script [setup_enviroment_loadbalancer_and_homepage.sh](./Scripts_forDemos/setup_enviroment_loadbalancer_and_homepage.sh) verwendet werden. 
 Wichtig zu beachten ist, dass die Setup-Dateien, in einem Repo stehen, welches nur mit einem Access-Token von mir herunter geladen werden können. 
 
 In dieser Demo zeige ich auf, wie wir den Loadbalancer eingerichtet haben und wie das mit einer Homepage ablaufen würde.
@@ -50,7 +50,7 @@ Die Konfiguration des Loadbalancers sieht folgendermassen aus:
 ![Config Loadbalancer](./Images/Loadbalancer/config_loadbalancer.png) 
 *Config Loadbalancer* 
 
-Ansonsten kann auch das JSON über diesen Link angeschaut werden: [JSON Config Loadbalancer](loadbalancerconfig.md) 
+Ansonsten kann auch das JSON über diesen Link angeschaut werden: [JSON Config Loadbalancer](./Scripts_for_Demos/config/loadbalancerconfig.md) 
 
 Die VMs werden über ein Cloud-Init-File erstellt, welches einen NGNX-Webserver installiert und auch gleich eine Demo Homepage, auf der aktuell ersichtlich ist, auf welchem Server wir uns befinden.
 
