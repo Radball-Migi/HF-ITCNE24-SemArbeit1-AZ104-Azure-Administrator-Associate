@@ -41,20 +41,20 @@ In dieser Demo zeige ich auf, wie wir den Loadbalancer eingerichtet haben und wi
 
 Beim erstellen der Ressource, beachten wir zusätzlich das [Namenskonzept](Nameconcept.md), welches wir im vorhinein definiert haben. 
 
-![Ressourcen in Ressourcengruppe](rg_lb_demo_marked.png)
+![Ressourcen in Ressourcengruppe](./Images/Loadbalancer/rg_lb_demo_marked.png)
 *Ressourcen in Ressourcengruppe markiert*
 
 Wie wir hier sehen können haben wir in der Ressourcengruppe einen Loadbalancer, zwei VMs, deren SSDs, etc. 
 
 Die Konfiguration des Loadbalancers sieht folgendermassen aus:
-![Config Loadbalancer](config_loadbalancer.png) 
+![Config Loadbalancer](./Images/Loadbalancer/config_loadbalancer.png) 
 *Config Loadbalancer* 
 
 Ansonsten kann auch das JSON über diesen Link angeschaut werden: [JSON Config Loadbalancer](loadbalancerconfig.md) 
 
 Die VMs werden über ein Cloud-Init-File erstellt, welches einen NGNX-Webserver installiert und auch gleich eine Demo Homepage, auf der aktuell ersichtlich ist, auf welchem Server wir uns befinden.
 
-![Website Demo](test_lb_for_Websites.png)
+![Website Demo](./Images/Loadbalancer/test_lb_for_Websites.png)
 *Demowebsite*
 Wie wir in dieser Abbildung sehen können, haben wir über zwei Browserprofile eine Anfrage auf die selbe IP-Adresse Durch den Loadbalancer werden die Anfragen dann auf die verschiedenen VMs aufgeteilt. 
 
