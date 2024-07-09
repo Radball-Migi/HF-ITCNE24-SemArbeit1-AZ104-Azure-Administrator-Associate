@@ -19,7 +19,7 @@ Dazu gehörten Entra ID P2 und weitere Defender-Dienste.
 
 Die Lizenz Zuweisung findet über Gruppen statt. 
 Wir haben dafür unter den Gruppen 3 Lizenzgruppen erstellt 
-![Licencegroups](./Images/Identitymanagement/groups.png)
+![Licencegroups](./Images/Identitymanagement/Groups.png)
 *Lizenzgruppen (M365_A3_`*`)* 
 
 Der Vorteil einer Gruppenlizenzierung ist, dass die Benutzer in einer gruppe sind und sobald sie dann entfernt werden auch gleich die Lizenz verlieren. 
@@ -27,6 +27,7 @@ Der Vorteil einer Gruppenlizenzierung ist, dass die Benutzer in einer gruppe sin
 Im Portal ist die Lizenzierung wie folgt zu erkennen: 
 Als Beispiel verwenden wir die Microsoft Entra ID P2.
 ![Licencedgroups](./Images/Identitymanagement/Licencedgroups.png)
+
 *Lizenzierte Gruppen Schule Muster*
 
 Bei der Benutzerübersicht kann man dies auch sehen, inklusive über welche Gruppe sie die Lizenz erhalten. 
