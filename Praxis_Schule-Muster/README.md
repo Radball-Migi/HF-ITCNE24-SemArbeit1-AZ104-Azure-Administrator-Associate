@@ -19,6 +19,7 @@
     - [3.5 Serverablösung](#35-serverablösung)
     - [3.6 Identity Management](#36-identity-management)
     - [3.7 Lizenz Management](#37-lizenz-management)
+    - [3.8 Pricing](#38-Pricing) 
   - [**4. Weitere Schritte**](#4-weitere-schritte)
   - [**5. Fazit**](#5-fazit)
     - [5.1 Empfehlung für die Schule Muster](#51-empfehlung-für-die-schule-muster)
