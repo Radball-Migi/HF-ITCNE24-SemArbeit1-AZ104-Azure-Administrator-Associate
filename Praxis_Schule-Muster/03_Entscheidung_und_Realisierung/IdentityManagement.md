@@ -160,6 +160,7 @@ Die beiden Richtlinien sind nun erstellt und beim nächsten Login werden dann di
 *Bedingter Zugriff Schule Muster*
 
 ![MFA Requirement](./Images/Identitymanagement/MFA_Requirement.png)
+
 *MFA wird beim nächsten Login verlangt*
 
 
@@ -180,6 +181,7 @@ Alle Benutzer welcher in dieser Gruppe sind, können ihr eigenes Passwort zurüc
 *Einrichtung Selfservice für das Passwort zurücksetzen*
 
 ![Conditional Access](./Images/Identitymanagement/PWReset_possible.png)
+
 *Benutzer ist in der Gruppe und kann PW-Zurücksetzen*
 
 ![Conditional Access](./Images/Identitymanagement/PWReset_not_possible.png)
