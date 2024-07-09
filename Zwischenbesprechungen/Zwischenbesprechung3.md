@@ -27,17 +27,4 @@ Der Fokus liegt nun auf der Dokumentation und den zwei Demonstrationen (Loadbala
 
 <br>
 
-
-> [⌂ **Zurück zur Hauptseite**](../README.md) 
-
-
-
-
-
-
-
-
-<br>
-<br>
-
 > [⌂ **Zurück zur Hauptseite**](../README.md) 
