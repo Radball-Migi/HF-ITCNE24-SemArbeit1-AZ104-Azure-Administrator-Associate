@@ -24,7 +24,7 @@
   - [**5. Fazit**](#5-fazit)
     - [5.1 Empfehlung für die Schule Muster](#51-empfehlung-für-die-schule-muster)
     - [5.2 Alternativen](#52-alternativen)
-  - [**6. Reflektion**](#6-reflektion)
+  - [**6. Reflexion**](#6-reflektion)
   
 
 ## **1. Informationen**
