@@ -1,6 +1,6 @@
-# Reflektion
+# Reflextion
 
-Im Sinne der Reflektion möchte ich hier auf einige Punkte ansprechen, welche ich gut oder schlecht fand, während der Semesterarbeit. 
+Im Sinne der Reflexion möchte ich hier auf einige Punkte ansprechen, welche ich gut oder schlecht fand, während der Semesterarbeit. 
 Ziel der Reflektion ist es daraus etwas zu lernen und dass ich für kommende Semesterarbeiten und in Zukunft dies anwenden kann. 
 
 Da dies meine erste Semesterarbeit ist, musste ich mir vieles neu angewöhnen. 

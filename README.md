@@ -28,4 +28,21 @@ Unter den nachfolgenden Links, sind die einzelnen "Protokolle" zur jeweiligen Be
 - [3. Zwischengespräch (hat nicht Stattgefunden)](./Zwischenbesprechungen/Zwischenbesprechung3.md)
 
 ## [4. Zertifizierung](./Zertifizierung/README.md)
-## [5. Reflektion & Schlusswort](./Reflektion/README.md) 
+## [5. Reflexion & Schlusswort](./Reflektion/README.md) 
+
+
+##### Quellen
+
+**Microsoft Learn**
+
+https://learn.microsoft.com/en-us/training/courses/az-104t00 
+
+
+**Copilot, ChatGPT, AI**
+
+[Copilot (microsoft.com)](https://copilot.microsoft.com/)
+[ChatGPT](https://chatgpt.com/)
+
+
+
+ 

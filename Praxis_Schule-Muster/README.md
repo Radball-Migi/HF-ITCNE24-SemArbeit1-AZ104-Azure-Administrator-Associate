@@ -101,9 +101,9 @@ Anhand der gezeigten Möglichkeiten und der Evaluation, würde von meiner Seite 
 In jedem Projekt gibt es Pro und Kontras. Was würde nebst der Empfehlung als Alternative zur Verfügung stehen?
 
 
-## [**6. Reflektion**](../Reflektion/README.md) 
+## [**6. Reflexion**](../Reflektion/README.md) 
 
-Im Sinne der Reflektion möchte ich hier auf einige Punkte ansprechen, welche ich gut oder schlecht fand, während der Semesterarbeit. 
+Im Sinne der Reflexion möchte ich hier auf einige Punkte ansprechen, welche ich gut oder schlecht fand, während der Semesterarbeit. 
 Ziel der Reflektion ist es daraus etwas zu lernen und dass ich für kommende Semesterarbeiten dies anwenden kann. 
 <br>
 <br>
